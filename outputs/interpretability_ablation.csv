@@ -1,0 +1,5 @@
+Configuration,Accuracy
+Full Multimodal,0.989978021978022
+Without Image,0.1666813186813187
+Without Weather,0.989978021978022
+Without Soil,0.9901538461538462

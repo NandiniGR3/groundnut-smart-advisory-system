@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score
+CNN (Image Only),0.91,0.9,0.89,0.89
+LSTM (Weather Only),0.88,0.87,0.86,0.86
+CNN + LSTM,0.95,0.95,0.94,0.94
+Proposed Multimodal (Image + Weather + Soil),0.9912,0.9913,0.9912,0.9912

@@ -1,0 +1,3241 @@
+date,ndvi,evi,district
+2016-12-31,,,Bagalkot
+2017-01-31,,,Bagalkot
+2017-02-28,,,Bagalkot
+2017-03-31,,,Bagalkot
+2017-04-30,,,Bagalkot
+2017-05-31,,,Bagalkot
+2017-06-30,,,Bagalkot
+2017-07-31,,,Bagalkot
+2017-08-31,,,Bagalkot
+2017-09-30,,,Bagalkot
+2017-10-31,,,Bagalkot
+2017-11-30,,,Bagalkot
+2017-12-31,,,Bagalkot
+2018-01-31,,,Bagalkot
+2018-02-28,,,Bagalkot
+2018-03-31,,,Bagalkot
+2018-04-30,,,Bagalkot
+2018-05-31,,,Bagalkot
+2018-06-30,,,Bagalkot
+2018-07-31,,,Bagalkot
+2018-08-31,,,Bagalkot
+2018-09-30,,,Bagalkot
+2018-10-31,,,Bagalkot
+2018-11-30,,,Bagalkot
+2018-12-31,,,Bagalkot
+2019-01-31,,,Bagalkot
+2019-02-28,,,Bagalkot
+2019-03-31,,,Bagalkot
+2019-04-30,,,Bagalkot
+2019-05-31,,,Bagalkot
+2019-06-30,,,Bagalkot
+2019-07-31,,,Bagalkot
+2019-08-31,,,Bagalkot
+2019-09-30,,,Bagalkot
+2019-10-31,,,Bagalkot
+2019-11-30,,,Bagalkot
+2019-12-31,,,Bagalkot
+2020-01-31,,,Bagalkot
+2020-02-29,,,Bagalkot
+2020-03-31,,,Bagalkot
+2020-04-30,,,Bagalkot
+2020-05-31,,,Bagalkot
+2020-06-30,,,Bagalkot
+2020-07-31,,,Bagalkot
+2020-08-31,,,Bagalkot
+2020-09-30,,,Bagalkot
+2020-10-31,,,Bagalkot
+2020-11-30,,,Bagalkot
+2020-12-31,,,Bagalkot
+2021-01-31,,,Bagalkot
+2021-02-28,,,Bagalkot
+2021-03-31,,,Bagalkot
+2021-04-30,,,Bagalkot
+2021-05-31,,,Bagalkot
+2021-06-30,,,Bagalkot
+2021-07-31,,,Bagalkot
+2021-08-31,,,Bagalkot
+2021-09-30,,,Bagalkot
+2021-10-31,,,Bagalkot
+2021-11-30,,,Bagalkot
+2021-12-31,,,Bagalkot
+2022-01-31,,,Bagalkot
+2022-02-28,,,Bagalkot
+2022-03-31,,,Bagalkot
+2022-04-30,,,Bagalkot
+2022-05-31,,,Bagalkot
+2022-06-30,,,Bagalkot
+2022-07-31,,,Bagalkot
+2022-08-31,,,Bagalkot
+2022-09-30,,,Bagalkot
+2022-10-31,,,Bagalkot
+2022-11-30,,,Bagalkot
+2022-12-31,,,Bagalkot
+2023-01-31,,,Bagalkot
+2023-02-28,,,Bagalkot
+2023-03-31,,,Bagalkot
+2023-04-30,,,Bagalkot
+2023-05-31,,,Bagalkot
+2023-06-30,,,Bagalkot
+2023-07-31,,,Bagalkot
+2023-08-31,,,Bagalkot
+2023-09-30,,,Bagalkot
+2023-10-31,,,Bagalkot
+2023-11-30,,,Bagalkot
+2023-12-31,,,Bagalkot
+2024-01-31,,,Bagalkot
+2024-02-29,,,Bagalkot
+2024-03-31,,,Bagalkot
+2024-04-30,,,Bagalkot
+2024-05-31,,,Bagalkot
+2024-06-30,,,Bagalkot
+2024-07-31,,,Bagalkot
+2024-08-31,,,Bagalkot
+2024-09-30,,,Bagalkot
+2024-10-31,,,Bagalkot
+2024-11-30,,,Bagalkot
+2024-12-31,,,Bagalkot
+2025-01-31,,,Bagalkot
+2025-02-28,,,Bagalkot
+2025-03-31,,,Bagalkot
+2025-04-30,,,Bagalkot
+2025-05-31,,,Bagalkot
+2025-06-30,,,Bagalkot
+2025-07-31,,,Bagalkot
+2025-08-31,,,Bagalkot
+2025-09-30,,,Bagalkot
+2025-10-31,,,Bagalkot
+2025-11-30,,,Bagalkot
+2016-12-31,,,Ballari
+2017-01-31,,,Ballari
+2017-02-28,,,Ballari
+2017-03-31,,,Ballari
+2017-04-30,,,Ballari
+2017-05-31,,,Ballari
+2017-06-30,,,Ballari
+2017-07-31,,,Ballari
+2017-08-31,,,Ballari
+2017-09-30,,,Ballari
+2017-10-31,,,Ballari
+2017-11-30,,,Ballari
+2017-12-31,,,Ballari
+2018-01-31,,,Ballari
+2018-02-28,,,Ballari
+2018-03-31,,,Ballari
+2018-04-30,,,Ballari
+2018-05-31,,,Ballari
+2018-06-30,,,Ballari
+2018-07-31,,,Ballari
+2018-08-31,,,Ballari
+2018-09-30,,,Ballari
+2018-10-31,,,Ballari
+2018-11-30,,,Ballari
+2018-12-31,,,Ballari
+2019-01-31,,,Ballari
+2019-02-28,,,Ballari
+2019-03-31,,,Ballari
+2019-04-30,,,Ballari
+2019-05-31,,,Ballari
+2019-06-30,,,Ballari
+2019-07-31,,,Ballari
+2019-08-31,,,Ballari
+2019-09-30,,,Ballari
+2019-10-31,,,Ballari
+2019-11-30,,,Ballari
+2019-12-31,,,Ballari
+2020-01-31,,,Ballari
+2020-02-29,,,Ballari
+2020-03-31,,,Ballari
+2020-04-30,,,Ballari
+2020-05-31,,,Ballari
+2020-06-30,,,Ballari
+2020-07-31,,,Ballari
+2020-08-31,,,Ballari
+2020-09-30,,,Ballari
+2020-10-31,,,Ballari
+2020-11-30,,,Ballari
+2020-12-31,,,Ballari
+2021-01-31,,,Ballari
+2021-02-28,,,Ballari
+2021-03-31,,,Ballari
+2021-04-30,,,Ballari
+2021-05-31,,,Ballari
+2021-06-30,,,Ballari
+2021-07-31,,,Ballari
+2021-08-31,,,Ballari
+2021-09-30,,,Ballari
+2021-10-31,,,Ballari
+2021-11-30,,,Ballari
+2021-12-31,,,Ballari
+2022-01-31,,,Ballari
+2022-02-28,,,Ballari
+2022-03-31,,,Ballari
+2022-04-30,,,Ballari
+2022-05-31,,,Ballari
+2022-06-30,,,Ballari
+2022-07-31,,,Ballari
+2022-08-31,,,Ballari
+2022-09-30,,,Ballari
+2022-10-31,,,Ballari
+2022-11-30,,,Ballari
+2022-12-31,,,Ballari
+2023-01-31,,,Ballari
+2023-02-28,,,Ballari
+2023-03-31,,,Ballari
+2023-04-30,,,Ballari
+2023-05-31,,,Ballari
+2023-06-30,,,Ballari
+2023-07-31,,,Ballari
+2023-08-31,,,Ballari
+2023-09-30,,,Ballari
+2023-10-31,,,Ballari
+2023-11-30,,,Ballari
+2023-12-31,,,Ballari
+2024-01-31,,,Ballari
+2024-02-29,,,Ballari
+2024-03-31,,,Ballari
+2024-04-30,,,Ballari
+2024-05-31,,,Ballari
+2024-06-30,,,Ballari
+2024-07-31,,,Ballari
+2024-08-31,,,Ballari
+2024-09-30,,,Ballari
+2024-10-31,,,Ballari
+2024-11-30,,,Ballari
+2024-12-31,,,Ballari
+2025-01-31,,,Ballari
+2025-02-28,,,Ballari
+2025-03-31,,,Ballari
+2025-04-30,,,Ballari
+2025-05-31,,,Ballari
+2025-06-30,,,Ballari
+2025-07-31,,,Ballari
+2025-08-31,,,Ballari
+2025-09-30,,,Ballari
+2025-10-31,,,Ballari
+2025-11-30,,,Ballari
+2016-12-31,,,Belagavi
+2017-01-31,,,Belagavi
+2017-02-28,,,Belagavi
+2017-03-31,,,Belagavi
+2017-04-30,,,Belagavi
+2017-05-31,,,Belagavi
+2017-06-30,,,Belagavi
+2017-07-31,,,Belagavi
+2017-08-31,,,Belagavi
+2017-09-30,,,Belagavi
+2017-10-31,,,Belagavi
+2017-11-30,,,Belagavi
+2017-12-31,,,Belagavi
+2018-01-31,,,Belagavi
+2018-02-28,,,Belagavi
+2018-03-31,,,Belagavi
+2018-04-30,,,Belagavi
+2018-05-31,,,Belagavi
+2018-06-30,,,Belagavi
+2018-07-31,,,Belagavi
+2018-08-31,,,Belagavi
+2018-09-30,,,Belagavi
+2018-10-31,,,Belagavi
+2018-11-30,,,Belagavi
+2018-12-31,,,Belagavi
+2019-01-31,,,Belagavi
+2019-02-28,,,Belagavi
+2019-03-31,,,Belagavi
+2019-04-30,,,Belagavi
+2019-05-31,,,Belagavi
+2019-06-30,,,Belagavi
+2019-07-31,,,Belagavi
+2019-08-31,,,Belagavi
+2019-09-30,,,Belagavi
+2019-10-31,,,Belagavi
+2019-11-30,,,Belagavi
+2019-12-31,,,Belagavi
+2020-01-31,,,Belagavi
+2020-02-29,,,Belagavi
+2020-03-31,,,Belagavi
+2020-04-30,,,Belagavi
+2020-05-31,,,Belagavi
+2020-06-30,,,Belagavi
+2020-07-31,,,Belagavi
+2020-08-31,,,Belagavi
+2020-09-30,,,Belagavi
+2020-10-31,,,Belagavi
+2020-11-30,,,Belagavi
+2020-12-31,,,Belagavi
+2021-01-31,,,Belagavi
+2021-02-28,,,Belagavi
+2021-03-31,,,Belagavi
+2021-04-30,,,Belagavi
+2021-05-31,,,Belagavi
+2021-06-30,,,Belagavi
+2021-07-31,,,Belagavi
+2021-08-31,,,Belagavi
+2021-09-30,,,Belagavi
+2021-10-31,,,Belagavi
+2021-11-30,,,Belagavi
+2021-12-31,,,Belagavi
+2022-01-31,,,Belagavi
+2022-02-28,,,Belagavi
+2022-03-31,,,Belagavi
+2022-04-30,,,Belagavi
+2022-05-31,,,Belagavi
+2022-06-30,,,Belagavi
+2022-07-31,,,Belagavi
+2022-08-31,,,Belagavi
+2022-09-30,,,Belagavi
+2022-10-31,,,Belagavi
+2022-11-30,,,Belagavi
+2022-12-31,,,Belagavi
+2023-01-31,,,Belagavi
+2023-02-28,,,Belagavi
+2023-03-31,,,Belagavi
+2023-04-30,,,Belagavi
+2023-05-31,,,Belagavi
+2023-06-30,,,Belagavi
+2023-07-31,,,Belagavi
+2023-08-31,,,Belagavi
+2023-09-30,,,Belagavi
+2023-10-31,,,Belagavi
+2023-11-30,,,Belagavi
+2023-12-31,,,Belagavi
+2024-01-31,,,Belagavi
+2024-02-29,,,Belagavi
+2024-03-31,,,Belagavi
+2024-04-30,,,Belagavi
+2024-05-31,,,Belagavi
+2024-06-30,,,Belagavi
+2024-07-31,,,Belagavi
+2024-08-31,,,Belagavi
+2024-09-30,,,Belagavi
+2024-10-31,,,Belagavi
+2024-11-30,,,Belagavi
+2024-12-31,,,Belagavi
+2025-01-31,,,Belagavi
+2025-02-28,,,Belagavi
+2025-03-31,,,Belagavi
+2025-04-30,,,Belagavi
+2025-05-31,,,Belagavi
+2025-06-30,,,Belagavi
+2025-07-31,,,Belagavi
+2025-08-31,,,Belagavi
+2025-09-30,,,Belagavi
+2025-10-31,,,Belagavi
+2025-11-30,,,Belagavi
+2016-12-31,,,Bidar
+2017-01-31,,,Bidar
+2017-02-28,,,Bidar
+2017-03-31,,,Bidar
+2017-04-30,,,Bidar
+2017-05-31,,,Bidar
+2017-06-30,,,Bidar
+2017-07-31,,,Bidar
+2017-08-31,,,Bidar
+2017-09-30,,,Bidar
+2017-10-31,,,Bidar
+2017-11-30,,,Bidar
+2017-12-31,,,Bidar
+2018-01-31,,,Bidar
+2018-02-28,,,Bidar
+2018-03-31,,,Bidar
+2018-04-30,,,Bidar
+2018-05-31,,,Bidar
+2018-06-30,,,Bidar
+2018-07-31,,,Bidar
+2018-08-31,,,Bidar
+2018-09-30,,,Bidar
+2018-10-31,,,Bidar
+2018-11-30,,,Bidar
+2018-12-31,,,Bidar
+2019-01-31,,,Bidar
+2019-02-28,,,Bidar
+2019-03-31,,,Bidar
+2019-04-30,,,Bidar
+2019-05-31,,,Bidar
+2019-06-30,,,Bidar
+2019-07-31,,,Bidar
+2019-08-31,,,Bidar
+2019-09-30,,,Bidar
+2019-10-31,,,Bidar
+2019-11-30,,,Bidar
+2019-12-31,,,Bidar
+2020-01-31,,,Bidar
+2020-02-29,,,Bidar
+2020-03-31,,,Bidar
+2020-04-30,,,Bidar
+2020-05-31,,,Bidar
+2020-06-30,,,Bidar
+2020-07-31,,,Bidar
+2020-08-31,,,Bidar
+2020-09-30,,,Bidar
+2020-10-31,,,Bidar
+2020-11-30,,,Bidar
+2020-12-31,,,Bidar
+2021-01-31,,,Bidar
+2021-02-28,,,Bidar
+2021-03-31,,,Bidar
+2021-04-30,,,Bidar
+2021-05-31,,,Bidar
+2021-06-30,,,Bidar
+2021-07-31,,,Bidar
+2021-08-31,,,Bidar
+2021-09-30,,,Bidar
+2021-10-31,,,Bidar
+2021-11-30,,,Bidar
+2021-12-31,,,Bidar
+2022-01-31,,,Bidar
+2022-02-28,,,Bidar
+2022-03-31,,,Bidar
+2022-04-30,,,Bidar
+2022-05-31,,,Bidar
+2022-06-30,,,Bidar
+2022-07-31,,,Bidar
+2022-08-31,,,Bidar
+2022-09-30,,,Bidar
+2022-10-31,,,Bidar
+2022-11-30,,,Bidar
+2022-12-31,,,Bidar
+2023-01-31,,,Bidar
+2023-02-28,,,Bidar
+2023-03-31,,,Bidar
+2023-04-30,,,Bidar
+2023-05-31,,,Bidar
+2023-06-30,,,Bidar
+2023-07-31,,,Bidar
+2023-08-31,,,Bidar
+2023-09-30,,,Bidar
+2023-10-31,,,Bidar
+2023-11-30,,,Bidar
+2023-12-31,,,Bidar
+2024-01-31,,,Bidar
+2024-02-29,,,Bidar
+2024-03-31,,,Bidar
+2024-04-30,,,Bidar
+2024-05-31,,,Bidar
+2024-06-30,,,Bidar
+2024-07-31,,,Bidar
+2024-08-31,,,Bidar
+2024-09-30,,,Bidar
+2024-10-31,,,Bidar
+2024-11-30,,,Bidar
+2024-12-31,,,Bidar
+2025-01-31,,,Bidar
+2025-02-28,,,Bidar
+2025-03-31,,,Bidar
+2025-04-30,,,Bidar
+2025-05-31,,,Bidar
+2025-06-30,,,Bidar
+2025-07-31,,,Bidar
+2025-08-31,,,Bidar
+2025-09-30,,,Bidar
+2025-10-31,,,Bidar
+2025-11-30,,,Bidar
+2016-12-31,,,Chamarajanagar
+2017-01-31,,,Chamarajanagar
+2017-02-28,,,Chamarajanagar
+2017-03-31,,,Chamarajanagar
+2017-04-30,,,Chamarajanagar
+2017-05-31,,,Chamarajanagar
+2017-06-30,,,Chamarajanagar
+2017-07-31,,,Chamarajanagar
+2017-08-31,,,Chamarajanagar
+2017-09-30,,,Chamarajanagar
+2017-10-31,,,Chamarajanagar
+2017-11-30,,,Chamarajanagar
+2017-12-31,,,Chamarajanagar
+2018-01-31,,,Chamarajanagar
+2018-02-28,,,Chamarajanagar
+2018-03-31,,,Chamarajanagar
+2018-04-30,,,Chamarajanagar
+2018-05-31,,,Chamarajanagar
+2018-06-30,,,Chamarajanagar
+2018-07-31,,,Chamarajanagar
+2018-08-31,,,Chamarajanagar
+2018-09-30,,,Chamarajanagar
+2018-10-31,,,Chamarajanagar
+2018-11-30,,,Chamarajanagar
+2018-12-31,,,Chamarajanagar
+2019-01-31,,,Chamarajanagar
+2019-02-28,,,Chamarajanagar
+2019-03-31,,,Chamarajanagar
+2019-04-30,,,Chamarajanagar
+2019-05-31,,,Chamarajanagar
+2019-06-30,,,Chamarajanagar
+2019-07-31,,,Chamarajanagar
+2019-08-31,,,Chamarajanagar
+2019-09-30,,,Chamarajanagar
+2019-10-31,,,Chamarajanagar
+2019-11-30,,,Chamarajanagar
+2019-12-31,,,Chamarajanagar
+2020-01-31,,,Chamarajanagar
+2020-02-29,,,Chamarajanagar
+2020-03-31,,,Chamarajanagar
+2020-04-30,,,Chamarajanagar
+2020-05-31,,,Chamarajanagar
+2020-06-30,,,Chamarajanagar
+2020-07-31,,,Chamarajanagar
+2020-08-31,,,Chamarajanagar
+2020-09-30,,,Chamarajanagar
+2020-10-31,,,Chamarajanagar
+2020-11-30,,,Chamarajanagar
+2020-12-31,,,Chamarajanagar
+2021-01-31,,,Chamarajanagar
+2021-02-28,,,Chamarajanagar
+2021-03-31,,,Chamarajanagar
+2021-04-30,,,Chamarajanagar
+2021-05-31,,,Chamarajanagar
+2021-06-30,,,Chamarajanagar
+2021-07-31,,,Chamarajanagar
+2021-08-31,,,Chamarajanagar
+2021-09-30,,,Chamarajanagar
+2021-10-31,,,Chamarajanagar
+2021-11-30,,,Chamarajanagar
+2021-12-31,,,Chamarajanagar
+2022-01-31,,,Chamarajanagar
+2022-02-28,,,Chamarajanagar
+2022-03-31,,,Chamarajanagar
+2022-04-30,,,Chamarajanagar
+2022-05-31,,,Chamarajanagar
+2022-06-30,,,Chamarajanagar
+2022-07-31,,,Chamarajanagar
+2022-08-31,,,Chamarajanagar
+2022-09-30,,,Chamarajanagar
+2022-10-31,,,Chamarajanagar
+2022-11-30,,,Chamarajanagar
+2022-12-31,,,Chamarajanagar
+2023-01-31,,,Chamarajanagar
+2023-02-28,,,Chamarajanagar
+2023-03-31,,,Chamarajanagar
+2023-04-30,,,Chamarajanagar
+2023-05-31,,,Chamarajanagar
+2023-06-30,,,Chamarajanagar
+2023-07-31,,,Chamarajanagar
+2023-08-31,,,Chamarajanagar
+2023-09-30,,,Chamarajanagar
+2023-10-31,,,Chamarajanagar
+2023-11-30,,,Chamarajanagar
+2023-12-31,,,Chamarajanagar
+2024-01-31,,,Chamarajanagar
+2024-02-29,,,Chamarajanagar
+2024-03-31,,,Chamarajanagar
+2024-04-30,,,Chamarajanagar
+2024-05-31,,,Chamarajanagar
+2024-06-30,,,Chamarajanagar
+2024-07-31,,,Chamarajanagar
+2024-08-31,,,Chamarajanagar
+2024-09-30,,,Chamarajanagar
+2024-10-31,,,Chamarajanagar
+2024-11-30,,,Chamarajanagar
+2024-12-31,,,Chamarajanagar
+2025-01-31,,,Chamarajanagar
+2025-02-28,,,Chamarajanagar
+2025-03-31,,,Chamarajanagar
+2025-04-30,,,Chamarajanagar
+2025-05-31,,,Chamarajanagar
+2025-06-30,,,Chamarajanagar
+2025-07-31,,,Chamarajanagar
+2025-08-31,,,Chamarajanagar
+2025-09-30,,,Chamarajanagar
+2025-10-31,,,Chamarajanagar
+2025-11-30,,,Chamarajanagar
+2016-12-31,,,Chikkaballapur
+2017-01-31,,,Chikkaballapur
+2017-02-28,,,Chikkaballapur
+2017-03-31,,,Chikkaballapur
+2017-04-30,,,Chikkaballapur
+2017-05-31,,,Chikkaballapur
+2017-06-30,,,Chikkaballapur
+2017-07-31,,,Chikkaballapur
+2017-08-31,,,Chikkaballapur
+2017-09-30,,,Chikkaballapur
+2017-10-31,,,Chikkaballapur
+2017-11-30,,,Chikkaballapur
+2017-12-31,,,Chikkaballapur
+2018-01-31,,,Chikkaballapur
+2018-02-28,,,Chikkaballapur
+2018-03-31,,,Chikkaballapur
+2018-04-30,,,Chikkaballapur
+2018-05-31,,,Chikkaballapur
+2018-06-30,,,Chikkaballapur
+2018-07-31,,,Chikkaballapur
+2018-08-31,,,Chikkaballapur
+2018-09-30,,,Chikkaballapur
+2018-10-31,,,Chikkaballapur
+2018-11-30,,,Chikkaballapur
+2018-12-31,,,Chikkaballapur
+2019-01-31,,,Chikkaballapur
+2019-02-28,,,Chikkaballapur
+2019-03-31,,,Chikkaballapur
+2019-04-30,,,Chikkaballapur
+2019-05-31,,,Chikkaballapur
+2019-06-30,,,Chikkaballapur
+2019-07-31,,,Chikkaballapur
+2019-08-31,,,Chikkaballapur
+2019-09-30,,,Chikkaballapur
+2019-10-31,,,Chikkaballapur
+2019-11-30,,,Chikkaballapur
+2019-12-31,,,Chikkaballapur
+2020-01-31,,,Chikkaballapur
+2020-02-29,,,Chikkaballapur
+2020-03-31,,,Chikkaballapur
+2020-04-30,,,Chikkaballapur
+2020-05-31,,,Chikkaballapur
+2020-06-30,,,Chikkaballapur
+2020-07-31,,,Chikkaballapur
+2020-08-31,,,Chikkaballapur
+2020-09-30,,,Chikkaballapur
+2020-10-31,,,Chikkaballapur
+2020-11-30,,,Chikkaballapur
+2020-12-31,,,Chikkaballapur
+2021-01-31,,,Chikkaballapur
+2021-02-28,,,Chikkaballapur
+2021-03-31,,,Chikkaballapur
+2021-04-30,,,Chikkaballapur
+2021-05-31,,,Chikkaballapur
+2021-06-30,,,Chikkaballapur
+2021-07-31,,,Chikkaballapur
+2021-08-31,,,Chikkaballapur
+2021-09-30,,,Chikkaballapur
+2021-10-31,,,Chikkaballapur
+2021-11-30,,,Chikkaballapur
+2021-12-31,,,Chikkaballapur
+2022-01-31,,,Chikkaballapur
+2022-02-28,,,Chikkaballapur
+2022-03-31,,,Chikkaballapur
+2022-04-30,,,Chikkaballapur
+2022-05-31,,,Chikkaballapur
+2022-06-30,,,Chikkaballapur
+2022-07-31,,,Chikkaballapur
+2022-08-31,,,Chikkaballapur
+2022-09-30,,,Chikkaballapur
+2022-10-31,,,Chikkaballapur
+2022-11-30,,,Chikkaballapur
+2022-12-31,,,Chikkaballapur
+2023-01-31,,,Chikkaballapur
+2023-02-28,,,Chikkaballapur
+2023-03-31,,,Chikkaballapur
+2023-04-30,,,Chikkaballapur
+2023-05-31,,,Chikkaballapur
+2023-06-30,,,Chikkaballapur
+2023-07-31,,,Chikkaballapur
+2023-08-31,,,Chikkaballapur
+2023-09-30,,,Chikkaballapur
+2023-10-31,,,Chikkaballapur
+2023-11-30,,,Chikkaballapur
+2023-12-31,,,Chikkaballapur
+2024-01-31,,,Chikkaballapur
+2024-02-29,,,Chikkaballapur
+2024-03-31,,,Chikkaballapur
+2024-04-30,,,Chikkaballapur
+2024-05-31,,,Chikkaballapur
+2024-06-30,,,Chikkaballapur
+2024-07-31,,,Chikkaballapur
+2024-08-31,,,Chikkaballapur
+2024-09-30,,,Chikkaballapur
+2024-10-31,,,Chikkaballapur
+2024-11-30,,,Chikkaballapur
+2024-12-31,,,Chikkaballapur
+2025-01-31,,,Chikkaballapur
+2025-02-28,,,Chikkaballapur
+2025-03-31,,,Chikkaballapur
+2025-04-30,,,Chikkaballapur
+2025-05-31,,,Chikkaballapur
+2025-06-30,,,Chikkaballapur
+2025-07-31,,,Chikkaballapur
+2025-08-31,,,Chikkaballapur
+2025-09-30,,,Chikkaballapur
+2025-10-31,,,Chikkaballapur
+2025-11-30,,,Chikkaballapur
+2016-12-31,,,Chikkamagaluru
+2017-01-31,,,Chikkamagaluru
+2017-02-28,,,Chikkamagaluru
+2017-03-31,,,Chikkamagaluru
+2017-04-30,,,Chikkamagaluru
+2017-05-31,,,Chikkamagaluru
+2017-06-30,,,Chikkamagaluru
+2017-07-31,,,Chikkamagaluru
+2017-08-31,,,Chikkamagaluru
+2017-09-30,,,Chikkamagaluru
+2017-10-31,,,Chikkamagaluru
+2017-11-30,,,Chikkamagaluru
+2017-12-31,,,Chikkamagaluru
+2018-01-31,,,Chikkamagaluru
+2018-02-28,,,Chikkamagaluru
+2018-03-31,,,Chikkamagaluru
+2018-04-30,,,Chikkamagaluru
+2018-05-31,,,Chikkamagaluru
+2018-06-30,,,Chikkamagaluru
+2018-07-31,,,Chikkamagaluru
+2018-08-31,,,Chikkamagaluru
+2018-09-30,,,Chikkamagaluru
+2018-10-31,,,Chikkamagaluru
+2018-11-30,,,Chikkamagaluru
+2018-12-31,,,Chikkamagaluru
+2019-01-31,,,Chikkamagaluru
+2019-02-28,,,Chikkamagaluru
+2019-03-31,,,Chikkamagaluru
+2019-04-30,,,Chikkamagaluru
+2019-05-31,,,Chikkamagaluru
+2019-06-30,,,Chikkamagaluru
+2019-07-31,,,Chikkamagaluru
+2019-08-31,,,Chikkamagaluru
+2019-09-30,,,Chikkamagaluru
+2019-10-31,,,Chikkamagaluru
+2019-11-30,,,Chikkamagaluru
+2019-12-31,,,Chikkamagaluru
+2020-01-31,,,Chikkamagaluru
+2020-02-29,,,Chikkamagaluru
+2020-03-31,,,Chikkamagaluru
+2020-04-30,,,Chikkamagaluru
+2020-05-31,,,Chikkamagaluru
+2020-06-30,,,Chikkamagaluru
+2020-07-31,,,Chikkamagaluru
+2020-08-31,,,Chikkamagaluru
+2020-09-30,,,Chikkamagaluru
+2020-10-31,,,Chikkamagaluru
+2020-11-30,,,Chikkamagaluru
+2020-12-31,,,Chikkamagaluru
+2021-01-31,,,Chikkamagaluru
+2021-02-28,,,Chikkamagaluru
+2021-03-31,,,Chikkamagaluru
+2021-04-30,,,Chikkamagaluru
+2021-05-31,,,Chikkamagaluru
+2021-06-30,,,Chikkamagaluru
+2021-07-31,,,Chikkamagaluru
+2021-08-31,,,Chikkamagaluru
+2021-09-30,,,Chikkamagaluru
+2021-10-31,,,Chikkamagaluru
+2021-11-30,,,Chikkamagaluru
+2021-12-31,,,Chikkamagaluru
+2022-01-31,,,Chikkamagaluru
+2022-02-28,,,Chikkamagaluru
+2022-03-31,,,Chikkamagaluru
+2022-04-30,,,Chikkamagaluru
+2022-05-31,,,Chikkamagaluru
+2022-06-30,,,Chikkamagaluru
+2022-07-31,,,Chikkamagaluru
+2022-08-31,,,Chikkamagaluru
+2022-09-30,,,Chikkamagaluru
+2022-10-31,,,Chikkamagaluru
+2022-11-30,,,Chikkamagaluru
+2022-12-31,,,Chikkamagaluru
+2023-01-31,,,Chikkamagaluru
+2023-02-28,,,Chikkamagaluru
+2023-03-31,,,Chikkamagaluru
+2023-04-30,,,Chikkamagaluru
+2023-05-31,,,Chikkamagaluru
+2023-06-30,,,Chikkamagaluru
+2023-07-31,,,Chikkamagaluru
+2023-08-31,,,Chikkamagaluru
+2023-09-30,,,Chikkamagaluru
+2023-10-31,,,Chikkamagaluru
+2023-11-30,,,Chikkamagaluru
+2023-12-31,,,Chikkamagaluru
+2024-01-31,,,Chikkamagaluru
+2024-02-29,,,Chikkamagaluru
+2024-03-31,,,Chikkamagaluru
+2024-04-30,,,Chikkamagaluru
+2024-05-31,,,Chikkamagaluru
+2024-06-30,,,Chikkamagaluru
+2024-07-31,,,Chikkamagaluru
+2024-08-31,,,Chikkamagaluru
+2024-09-30,,,Chikkamagaluru
+2024-10-31,,,Chikkamagaluru
+2024-11-30,,,Chikkamagaluru
+2024-12-31,,,Chikkamagaluru
+2025-01-31,,,Chikkamagaluru
+2025-02-28,,,Chikkamagaluru
+2025-03-31,,,Chikkamagaluru
+2025-04-30,,,Chikkamagaluru
+2025-05-31,,,Chikkamagaluru
+2025-06-30,,,Chikkamagaluru
+2025-07-31,,,Chikkamagaluru
+2025-08-31,,,Chikkamagaluru
+2025-09-30,,,Chikkamagaluru
+2025-10-31,,,Chikkamagaluru
+2025-11-30,,,Chikkamagaluru
+2016-12-31,,,Chitradurga
+2017-01-31,,,Chitradurga
+2017-02-28,,,Chitradurga
+2017-03-31,,,Chitradurga
+2017-04-30,,,Chitradurga
+2017-05-31,,,Chitradurga
+2017-06-30,,,Chitradurga
+2017-07-31,,,Chitradurga
+2017-08-31,,,Chitradurga
+2017-09-30,,,Chitradurga
+2017-10-31,,,Chitradurga
+2017-11-30,,,Chitradurga
+2017-12-31,,,Chitradurga
+2018-01-31,,,Chitradurga
+2018-02-28,,,Chitradurga
+2018-03-31,,,Chitradurga
+2018-04-30,,,Chitradurga
+2018-05-31,,,Chitradurga
+2018-06-30,,,Chitradurga
+2018-07-31,,,Chitradurga
+2018-08-31,,,Chitradurga
+2018-09-30,,,Chitradurga
+2018-10-31,,,Chitradurga
+2018-11-30,,,Chitradurga
+2018-12-31,,,Chitradurga
+2019-01-31,,,Chitradurga
+2019-02-28,,,Chitradurga
+2019-03-31,,,Chitradurga
+2019-04-30,,,Chitradurga
+2019-05-31,,,Chitradurga
+2019-06-30,,,Chitradurga
+2019-07-31,,,Chitradurga
+2019-08-31,,,Chitradurga
+2019-09-30,,,Chitradurga
+2019-10-31,,,Chitradurga
+2019-11-30,,,Chitradurga
+2019-12-31,,,Chitradurga
+2020-01-31,,,Chitradurga
+2020-02-29,,,Chitradurga
+2020-03-31,,,Chitradurga
+2020-04-30,,,Chitradurga
+2020-05-31,,,Chitradurga
+2020-06-30,,,Chitradurga
+2020-07-31,,,Chitradurga
+2020-08-31,,,Chitradurga
+2020-09-30,,,Chitradurga
+2020-10-31,,,Chitradurga
+2020-11-30,,,Chitradurga
+2020-12-31,,,Chitradurga
+2021-01-31,,,Chitradurga
+2021-02-28,,,Chitradurga
+2021-03-31,,,Chitradurga
+2021-04-30,,,Chitradurga
+2021-05-31,,,Chitradurga
+2021-06-30,,,Chitradurga
+2021-07-31,,,Chitradurga
+2021-08-31,,,Chitradurga
+2021-09-30,,,Chitradurga
+2021-10-31,,,Chitradurga
+2021-11-30,,,Chitradurga
+2021-12-31,,,Chitradurga
+2022-01-31,,,Chitradurga
+2022-02-28,,,Chitradurga
+2022-03-31,,,Chitradurga
+2022-04-30,,,Chitradurga
+2022-05-31,,,Chitradurga
+2022-06-30,,,Chitradurga
+2022-07-31,,,Chitradurga
+2022-08-31,,,Chitradurga
+2022-09-30,,,Chitradurga
+2022-10-31,,,Chitradurga
+2022-11-30,,,Chitradurga
+2022-12-31,,,Chitradurga
+2023-01-31,,,Chitradurga
+2023-02-28,,,Chitradurga
+2023-03-31,,,Chitradurga
+2023-04-30,,,Chitradurga
+2023-05-31,,,Chitradurga
+2023-06-30,,,Chitradurga
+2023-07-31,,,Chitradurga
+2023-08-31,,,Chitradurga
+2023-09-30,,,Chitradurga
+2023-10-31,,,Chitradurga
+2023-11-30,,,Chitradurga
+2023-12-31,,,Chitradurga
+2024-01-31,,,Chitradurga
+2024-02-29,,,Chitradurga
+2024-03-31,,,Chitradurga
+2024-04-30,,,Chitradurga
+2024-05-31,,,Chitradurga
+2024-06-30,,,Chitradurga
+2024-07-31,,,Chitradurga
+2024-08-31,,,Chitradurga
+2024-09-30,,,Chitradurga
+2024-10-31,,,Chitradurga
+2024-11-30,,,Chitradurga
+2024-12-31,,,Chitradurga
+2025-01-31,,,Chitradurga
+2025-02-28,,,Chitradurga
+2025-03-31,,,Chitradurga
+2025-04-30,,,Chitradurga
+2025-05-31,,,Chitradurga
+2025-06-30,,,Chitradurga
+2025-07-31,,,Chitradurga
+2025-08-31,,,Chitradurga
+2025-09-30,,,Chitradurga
+2025-10-31,,,Chitradurga
+2025-11-30,,,Chitradurga
+2016-12-31,,,Dakshina Kannada
+2017-01-31,,,Dakshina Kannada
+2017-02-28,,,Dakshina Kannada
+2017-03-31,,,Dakshina Kannada
+2017-04-30,,,Dakshina Kannada
+2017-05-31,,,Dakshina Kannada
+2017-06-30,,,Dakshina Kannada
+2017-07-31,,,Dakshina Kannada
+2017-08-31,,,Dakshina Kannada
+2017-09-30,,,Dakshina Kannada
+2017-10-31,,,Dakshina Kannada
+2017-11-30,,,Dakshina Kannada
+2017-12-31,,,Dakshina Kannada
+2018-01-31,,,Dakshina Kannada
+2018-02-28,,,Dakshina Kannada
+2018-03-31,,,Dakshina Kannada
+2018-04-30,,,Dakshina Kannada
+2018-05-31,,,Dakshina Kannada
+2018-06-30,,,Dakshina Kannada
+2018-07-31,,,Dakshina Kannada
+2018-08-31,,,Dakshina Kannada
+2018-09-30,,,Dakshina Kannada
+2018-10-31,,,Dakshina Kannada
+2018-11-30,,,Dakshina Kannada
+2018-12-31,,,Dakshina Kannada
+2019-01-31,,,Dakshina Kannada
+2019-02-28,,,Dakshina Kannada
+2019-03-31,,,Dakshina Kannada
+2019-04-30,,,Dakshina Kannada
+2019-05-31,,,Dakshina Kannada
+2019-06-30,,,Dakshina Kannada
+2019-07-31,,,Dakshina Kannada
+2019-08-31,,,Dakshina Kannada
+2019-09-30,,,Dakshina Kannada
+2019-10-31,,,Dakshina Kannada
+2019-11-30,,,Dakshina Kannada
+2019-12-31,,,Dakshina Kannada
+2020-01-31,,,Dakshina Kannada
+2020-02-29,,,Dakshina Kannada
+2020-03-31,,,Dakshina Kannada
+2020-04-30,,,Dakshina Kannada
+2020-05-31,,,Dakshina Kannada
+2020-06-30,,,Dakshina Kannada
+2020-07-31,,,Dakshina Kannada
+2020-08-31,,,Dakshina Kannada
+2020-09-30,,,Dakshina Kannada
+2020-10-31,,,Dakshina Kannada
+2020-11-30,,,Dakshina Kannada
+2020-12-31,,,Dakshina Kannada
+2021-01-31,,,Dakshina Kannada
+2021-02-28,,,Dakshina Kannada
+2021-03-31,,,Dakshina Kannada
+2021-04-30,,,Dakshina Kannada
+2021-05-31,,,Dakshina Kannada
+2021-06-30,,,Dakshina Kannada
+2021-07-31,,,Dakshina Kannada
+2021-08-31,,,Dakshina Kannada
+2021-09-30,,,Dakshina Kannada
+2021-10-31,,,Dakshina Kannada
+2021-11-30,,,Dakshina Kannada
+2021-12-31,,,Dakshina Kannada
+2022-01-31,,,Dakshina Kannada
+2022-02-28,,,Dakshina Kannada
+2022-03-31,,,Dakshina Kannada
+2022-04-30,,,Dakshina Kannada
+2022-05-31,,,Dakshina Kannada
+2022-06-30,,,Dakshina Kannada
+2022-07-31,,,Dakshina Kannada
+2022-08-31,,,Dakshina Kannada
+2022-09-30,,,Dakshina Kannada
+2022-10-31,,,Dakshina Kannada
+2022-11-30,,,Dakshina Kannada
+2022-12-31,,,Dakshina Kannada
+2023-01-31,,,Dakshina Kannada
+2023-02-28,,,Dakshina Kannada
+2023-03-31,,,Dakshina Kannada
+2023-04-30,,,Dakshina Kannada
+2023-05-31,,,Dakshina Kannada
+2023-06-30,,,Dakshina Kannada
+2023-07-31,,,Dakshina Kannada
+2023-08-31,,,Dakshina Kannada
+2023-09-30,,,Dakshina Kannada
+2023-10-31,,,Dakshina Kannada
+2023-11-30,,,Dakshina Kannada
+2023-12-31,,,Dakshina Kannada
+2024-01-31,,,Dakshina Kannada
+2024-02-29,,,Dakshina Kannada
+2024-03-31,,,Dakshina Kannada
+2024-04-30,,,Dakshina Kannada
+2024-05-31,,,Dakshina Kannada
+2024-06-30,,,Dakshina Kannada
+2024-07-31,,,Dakshina Kannada
+2024-08-31,,,Dakshina Kannada
+2024-09-30,,,Dakshina Kannada
+2024-10-31,,,Dakshina Kannada
+2024-11-30,,,Dakshina Kannada
+2024-12-31,,,Dakshina Kannada
+2025-01-31,,,Dakshina Kannada
+2025-02-28,,,Dakshina Kannada
+2025-03-31,,,Dakshina Kannada
+2025-04-30,,,Dakshina Kannada
+2025-05-31,,,Dakshina Kannada
+2025-06-30,,,Dakshina Kannada
+2025-07-31,,,Dakshina Kannada
+2025-08-31,,,Dakshina Kannada
+2025-09-30,,,Dakshina Kannada
+2025-10-31,,,Dakshina Kannada
+2025-11-30,,,Dakshina Kannada
+2016-12-31,,,Davanagere
+2017-01-31,,,Davanagere
+2017-02-28,,,Davanagere
+2017-03-31,,,Davanagere
+2017-04-30,,,Davanagere
+2017-05-31,,,Davanagere
+2017-06-30,,,Davanagere
+2017-07-31,,,Davanagere
+2017-08-31,,,Davanagere
+2017-09-30,,,Davanagere
+2017-10-31,,,Davanagere
+2017-11-30,,,Davanagere
+2017-12-31,,,Davanagere
+2018-01-31,,,Davanagere
+2018-02-28,,,Davanagere
+2018-03-31,,,Davanagere
+2018-04-30,,,Davanagere
+2018-05-31,,,Davanagere
+2018-06-30,,,Davanagere
+2018-07-31,,,Davanagere
+2018-08-31,,,Davanagere
+2018-09-30,,,Davanagere
+2018-10-31,,,Davanagere
+2018-11-30,,,Davanagere
+2018-12-31,,,Davanagere
+2019-01-31,,,Davanagere
+2019-02-28,,,Davanagere
+2019-03-31,,,Davanagere
+2019-04-30,,,Davanagere
+2019-05-31,,,Davanagere
+2019-06-30,,,Davanagere
+2019-07-31,,,Davanagere
+2019-08-31,,,Davanagere
+2019-09-30,,,Davanagere
+2019-10-31,,,Davanagere
+2019-11-30,,,Davanagere
+2019-12-31,,,Davanagere
+2020-01-31,,,Davanagere
+2020-02-29,,,Davanagere
+2020-03-31,,,Davanagere
+2020-04-30,,,Davanagere
+2020-05-31,,,Davanagere
+2020-06-30,,,Davanagere
+2020-07-31,,,Davanagere
+2020-08-31,,,Davanagere
+2020-09-30,,,Davanagere
+2020-10-31,,,Davanagere
+2020-11-30,,,Davanagere
+2020-12-31,,,Davanagere
+2021-01-31,,,Davanagere
+2021-02-28,,,Davanagere
+2021-03-31,,,Davanagere
+2021-04-30,,,Davanagere
+2021-05-31,,,Davanagere
+2021-06-30,,,Davanagere
+2021-07-31,,,Davanagere
+2021-08-31,,,Davanagere
+2021-09-30,,,Davanagere
+2021-10-31,,,Davanagere
+2021-11-30,,,Davanagere
+2021-12-31,,,Davanagere
+2022-01-31,,,Davanagere
+2022-02-28,,,Davanagere
+2022-03-31,,,Davanagere
+2022-04-30,,,Davanagere
+2022-05-31,,,Davanagere
+2022-06-30,,,Davanagere
+2022-07-31,,,Davanagere
+2022-08-31,,,Davanagere
+2022-09-30,,,Davanagere
+2022-10-31,,,Davanagere
+2022-11-30,,,Davanagere
+2022-12-31,,,Davanagere
+2023-01-31,,,Davanagere
+2023-02-28,,,Davanagere
+2023-03-31,,,Davanagere
+2023-04-30,,,Davanagere
+2023-05-31,,,Davanagere
+2023-06-30,,,Davanagere
+2023-07-31,,,Davanagere
+2023-08-31,,,Davanagere
+2023-09-30,,,Davanagere
+2023-10-31,,,Davanagere
+2023-11-30,,,Davanagere
+2023-12-31,,,Davanagere
+2024-01-31,,,Davanagere
+2024-02-29,,,Davanagere
+2024-03-31,,,Davanagere
+2024-04-30,,,Davanagere
+2024-05-31,,,Davanagere
+2024-06-30,,,Davanagere
+2024-07-31,,,Davanagere
+2024-08-31,,,Davanagere
+2024-09-30,,,Davanagere
+2024-10-31,,,Davanagere
+2024-11-30,,,Davanagere
+2024-12-31,,,Davanagere
+2025-01-31,,,Davanagere
+2025-02-28,,,Davanagere
+2025-03-31,,,Davanagere
+2025-04-30,,,Davanagere
+2025-05-31,,,Davanagere
+2025-06-30,,,Davanagere
+2025-07-31,,,Davanagere
+2025-08-31,,,Davanagere
+2025-09-30,,,Davanagere
+2025-10-31,,,Davanagere
+2025-11-30,,,Davanagere
+2016-12-31,,,Dharwad
+2017-01-31,,,Dharwad
+2017-02-28,,,Dharwad
+2017-03-31,,,Dharwad
+2017-04-30,,,Dharwad
+2017-05-31,,,Dharwad
+2017-06-30,,,Dharwad
+2017-07-31,,,Dharwad
+2017-08-31,,,Dharwad
+2017-09-30,,,Dharwad
+2017-10-31,,,Dharwad
+2017-11-30,,,Dharwad
+2017-12-31,,,Dharwad
+2018-01-31,,,Dharwad
+2018-02-28,,,Dharwad
+2018-03-31,,,Dharwad
+2018-04-30,,,Dharwad
+2018-05-31,,,Dharwad
+2018-06-30,,,Dharwad
+2018-07-31,,,Dharwad
+2018-08-31,,,Dharwad
+2018-09-30,,,Dharwad
+2018-10-31,,,Dharwad
+2018-11-30,,,Dharwad
+2018-12-31,,,Dharwad
+2019-01-31,,,Dharwad
+2019-02-28,,,Dharwad
+2019-03-31,,,Dharwad
+2019-04-30,,,Dharwad
+2019-05-31,,,Dharwad
+2019-06-30,,,Dharwad
+2019-07-31,,,Dharwad
+2019-08-31,,,Dharwad
+2019-09-30,,,Dharwad
+2019-10-31,,,Dharwad
+2019-11-30,,,Dharwad
+2019-12-31,,,Dharwad
+2020-01-31,,,Dharwad
+2020-02-29,,,Dharwad
+2020-03-31,,,Dharwad
+2020-04-30,,,Dharwad
+2020-05-31,,,Dharwad
+2020-06-30,,,Dharwad
+2020-07-31,,,Dharwad
+2020-08-31,,,Dharwad
+2020-09-30,,,Dharwad
+2020-10-31,,,Dharwad
+2020-11-30,,,Dharwad
+2020-12-31,,,Dharwad
+2021-01-31,,,Dharwad
+2021-02-28,,,Dharwad
+2021-03-31,,,Dharwad
+2021-04-30,,,Dharwad
+2021-05-31,,,Dharwad
+2021-06-30,,,Dharwad
+2021-07-31,,,Dharwad
+2021-08-31,,,Dharwad
+2021-09-30,,,Dharwad
+2021-10-31,,,Dharwad
+2021-11-30,,,Dharwad
+2021-12-31,,,Dharwad
+2022-01-31,,,Dharwad
+2022-02-28,,,Dharwad
+2022-03-31,,,Dharwad
+2022-04-30,,,Dharwad
+2022-05-31,,,Dharwad
+2022-06-30,,,Dharwad
+2022-07-31,,,Dharwad
+2022-08-31,,,Dharwad
+2022-09-30,,,Dharwad
+2022-10-31,,,Dharwad
+2022-11-30,,,Dharwad
+2022-12-31,,,Dharwad
+2023-01-31,,,Dharwad
+2023-02-28,,,Dharwad
+2023-03-31,,,Dharwad
+2023-04-30,,,Dharwad
+2023-05-31,,,Dharwad
+2023-06-30,,,Dharwad
+2023-07-31,,,Dharwad
+2023-08-31,,,Dharwad
+2023-09-30,,,Dharwad
+2023-10-31,,,Dharwad
+2023-11-30,,,Dharwad
+2023-12-31,,,Dharwad
+2024-01-31,,,Dharwad
+2024-02-29,,,Dharwad
+2024-03-31,,,Dharwad
+2024-04-30,,,Dharwad
+2024-05-31,,,Dharwad
+2024-06-30,,,Dharwad
+2024-07-31,,,Dharwad
+2024-08-31,,,Dharwad
+2024-09-30,,,Dharwad
+2024-10-31,,,Dharwad
+2024-11-30,,,Dharwad
+2024-12-31,,,Dharwad
+2025-01-31,,,Dharwad
+2025-02-28,,,Dharwad
+2025-03-31,,,Dharwad
+2025-04-30,,,Dharwad
+2025-05-31,,,Dharwad
+2025-06-30,,,Dharwad
+2025-07-31,,,Dharwad
+2025-08-31,,,Dharwad
+2025-09-30,,,Dharwad
+2025-10-31,,,Dharwad
+2025-11-30,,,Dharwad
+2016-12-31,,,Gadag
+2017-01-31,,,Gadag
+2017-02-28,,,Gadag
+2017-03-31,,,Gadag
+2017-04-30,,,Gadag
+2017-05-31,,,Gadag
+2017-06-30,,,Gadag
+2017-07-31,,,Gadag
+2017-08-31,,,Gadag
+2017-09-30,,,Gadag
+2017-10-31,,,Gadag
+2017-11-30,,,Gadag
+2017-12-31,,,Gadag
+2018-01-31,,,Gadag
+2018-02-28,,,Gadag
+2018-03-31,,,Gadag
+2018-04-30,,,Gadag
+2018-05-31,,,Gadag
+2018-06-30,,,Gadag
+2018-07-31,,,Gadag
+2018-08-31,,,Gadag
+2018-09-30,,,Gadag
+2018-10-31,,,Gadag
+2018-11-30,,,Gadag
+2018-12-31,,,Gadag
+2019-01-31,,,Gadag
+2019-02-28,,,Gadag
+2019-03-31,,,Gadag
+2019-04-30,,,Gadag
+2019-05-31,,,Gadag
+2019-06-30,,,Gadag
+2019-07-31,,,Gadag
+2019-08-31,,,Gadag
+2019-09-30,,,Gadag
+2019-10-31,,,Gadag
+2019-11-30,,,Gadag
+2019-12-31,,,Gadag
+2020-01-31,,,Gadag
+2020-02-29,,,Gadag
+2020-03-31,,,Gadag
+2020-04-30,,,Gadag
+2020-05-31,,,Gadag
+2020-06-30,,,Gadag
+2020-07-31,,,Gadag
+2020-08-31,,,Gadag
+2020-09-30,,,Gadag
+2020-10-31,,,Gadag
+2020-11-30,,,Gadag
+2020-12-31,,,Gadag
+2021-01-31,,,Gadag
+2021-02-28,,,Gadag
+2021-03-31,,,Gadag
+2021-04-30,,,Gadag
+2021-05-31,,,Gadag
+2021-06-30,,,Gadag
+2021-07-31,,,Gadag
+2021-08-31,,,Gadag
+2021-09-30,,,Gadag
+2021-10-31,,,Gadag
+2021-11-30,,,Gadag
+2021-12-31,,,Gadag
+2022-01-31,,,Gadag
+2022-02-28,,,Gadag
+2022-03-31,,,Gadag
+2022-04-30,,,Gadag
+2022-05-31,,,Gadag
+2022-06-30,,,Gadag
+2022-07-31,,,Gadag
+2022-08-31,,,Gadag
+2022-09-30,,,Gadag
+2022-10-31,,,Gadag
+2022-11-30,,,Gadag
+2022-12-31,,,Gadag
+2023-01-31,,,Gadag
+2023-02-28,,,Gadag
+2023-03-31,,,Gadag
+2023-04-30,,,Gadag
+2023-05-31,,,Gadag
+2023-06-30,,,Gadag
+2023-07-31,,,Gadag
+2023-08-31,,,Gadag
+2023-09-30,,,Gadag
+2023-10-31,,,Gadag
+2023-11-30,,,Gadag
+2023-12-31,,,Gadag
+2024-01-31,,,Gadag
+2024-02-29,,,Gadag
+2024-03-31,,,Gadag
+2024-04-30,,,Gadag
+2024-05-31,,,Gadag
+2024-06-30,,,Gadag
+2024-07-31,,,Gadag
+2024-08-31,,,Gadag
+2024-09-30,,,Gadag
+2024-10-31,,,Gadag
+2024-11-30,,,Gadag
+2024-12-31,,,Gadag
+2025-01-31,,,Gadag
+2025-02-28,,,Gadag
+2025-03-31,,,Gadag
+2025-04-30,,,Gadag
+2025-05-31,,,Gadag
+2025-06-30,,,Gadag
+2025-07-31,,,Gadag
+2025-08-31,,,Gadag
+2025-09-30,,,Gadag
+2025-10-31,,,Gadag
+2025-11-30,,,Gadag
+2016-12-31,,,Hassan
+2017-01-31,,,Hassan
+2017-02-28,,,Hassan
+2017-03-31,,,Hassan
+2017-04-30,,,Hassan
+2017-05-31,,,Hassan
+2017-06-30,,,Hassan
+2017-07-31,,,Hassan
+2017-08-31,,,Hassan
+2017-09-30,,,Hassan
+2017-10-31,,,Hassan
+2017-11-30,,,Hassan
+2017-12-31,,,Hassan
+2018-01-31,,,Hassan
+2018-02-28,,,Hassan
+2018-03-31,,,Hassan
+2018-04-30,,,Hassan
+2018-05-31,,,Hassan
+2018-06-30,,,Hassan
+2018-07-31,,,Hassan
+2018-08-31,,,Hassan
+2018-09-30,,,Hassan
+2018-10-31,,,Hassan
+2018-11-30,,,Hassan
+2018-12-31,,,Hassan
+2019-01-31,,,Hassan
+2019-02-28,,,Hassan
+2019-03-31,,,Hassan
+2019-04-30,,,Hassan
+2019-05-31,,,Hassan
+2019-06-30,,,Hassan
+2019-07-31,,,Hassan
+2019-08-31,,,Hassan
+2019-09-30,,,Hassan
+2019-10-31,,,Hassan
+2019-11-30,,,Hassan
+2019-12-31,,,Hassan
+2020-01-31,,,Hassan
+2020-02-29,,,Hassan
+2020-03-31,,,Hassan
+2020-04-30,,,Hassan
+2020-05-31,,,Hassan
+2020-06-30,,,Hassan
+2020-07-31,,,Hassan
+2020-08-31,,,Hassan
+2020-09-30,,,Hassan
+2020-10-31,,,Hassan
+2020-11-30,,,Hassan
+2020-12-31,,,Hassan
+2021-01-31,,,Hassan
+2021-02-28,,,Hassan
+2021-03-31,,,Hassan
+2021-04-30,,,Hassan
+2021-05-31,,,Hassan
+2021-06-30,,,Hassan
+2021-07-31,,,Hassan
+2021-08-31,,,Hassan
+2021-09-30,,,Hassan
+2021-10-31,,,Hassan
+2021-11-30,,,Hassan
+2021-12-31,,,Hassan
+2022-01-31,,,Hassan
+2022-02-28,,,Hassan
+2022-03-31,,,Hassan
+2022-04-30,,,Hassan
+2022-05-31,,,Hassan
+2022-06-30,,,Hassan
+2022-07-31,,,Hassan
+2022-08-31,,,Hassan
+2022-09-30,,,Hassan
+2022-10-31,,,Hassan
+2022-11-30,,,Hassan
+2022-12-31,,,Hassan
+2023-01-31,,,Hassan
+2023-02-28,,,Hassan
+2023-03-31,,,Hassan
+2023-04-30,,,Hassan
+2023-05-31,,,Hassan
+2023-06-30,,,Hassan
+2023-07-31,,,Hassan
+2023-08-31,,,Hassan
+2023-09-30,,,Hassan
+2023-10-31,,,Hassan
+2023-11-30,,,Hassan
+2023-12-31,,,Hassan
+2024-01-31,,,Hassan
+2024-02-29,,,Hassan
+2024-03-31,,,Hassan
+2024-04-30,,,Hassan
+2024-05-31,,,Hassan
+2024-06-30,,,Hassan
+2024-07-31,,,Hassan
+2024-08-31,,,Hassan
+2024-09-30,,,Hassan
+2024-10-31,,,Hassan
+2024-11-30,,,Hassan
+2024-12-31,,,Hassan
+2025-01-31,,,Hassan
+2025-02-28,,,Hassan
+2025-03-31,,,Hassan
+2025-04-30,,,Hassan
+2025-05-31,,,Hassan
+2025-06-30,,,Hassan
+2025-07-31,,,Hassan
+2025-08-31,,,Hassan
+2025-09-30,,,Hassan
+2025-10-31,,,Hassan
+2025-11-30,,,Hassan
+2016-12-31,,,Haveri
+2017-01-31,,,Haveri
+2017-02-28,,,Haveri
+2017-03-31,,,Haveri
+2017-04-30,,,Haveri
+2017-05-31,,,Haveri
+2017-06-30,,,Haveri
+2017-07-31,,,Haveri
+2017-08-31,,,Haveri
+2017-09-30,,,Haveri
+2017-10-31,,,Haveri
+2017-11-30,,,Haveri
+2017-12-31,,,Haveri
+2018-01-31,,,Haveri
+2018-02-28,,,Haveri
+2018-03-31,,,Haveri
+2018-04-30,,,Haveri
+2018-05-31,,,Haveri
+2018-06-30,,,Haveri
+2018-07-31,,,Haveri
+2018-08-31,,,Haveri
+2018-09-30,,,Haveri
+2018-10-31,,,Haveri
+2018-11-30,,,Haveri
+2018-12-31,,,Haveri
+2019-01-31,,,Haveri
+2019-02-28,,,Haveri
+2019-03-31,,,Haveri
+2019-04-30,,,Haveri
+2019-05-31,,,Haveri
+2019-06-30,,,Haveri
+2019-07-31,,,Haveri
+2019-08-31,,,Haveri
+2019-09-30,,,Haveri
+2019-10-31,,,Haveri
+2019-11-30,,,Haveri
+2019-12-31,,,Haveri
+2020-01-31,,,Haveri
+2020-02-29,,,Haveri
+2020-03-31,,,Haveri
+2020-04-30,,,Haveri
+2020-05-31,,,Haveri
+2020-06-30,,,Haveri
+2020-07-31,,,Haveri
+2020-08-31,,,Haveri
+2020-09-30,,,Haveri
+2020-10-31,,,Haveri
+2020-11-30,,,Haveri
+2020-12-31,,,Haveri
+2021-01-31,,,Haveri
+2021-02-28,,,Haveri
+2021-03-31,,,Haveri
+2021-04-30,,,Haveri
+2021-05-31,,,Haveri
+2021-06-30,,,Haveri
+2021-07-31,,,Haveri
+2021-08-31,,,Haveri
+2021-09-30,,,Haveri
+2021-10-31,,,Haveri
+2021-11-30,,,Haveri
+2021-12-31,,,Haveri
+2022-01-31,,,Haveri
+2022-02-28,,,Haveri
+2022-03-31,,,Haveri
+2022-04-30,,,Haveri
+2022-05-31,,,Haveri
+2022-06-30,,,Haveri
+2022-07-31,,,Haveri
+2022-08-31,,,Haveri
+2022-09-30,,,Haveri
+2022-10-31,,,Haveri
+2022-11-30,,,Haveri
+2022-12-31,,,Haveri
+2023-01-31,,,Haveri
+2023-02-28,,,Haveri
+2023-03-31,,,Haveri
+2023-04-30,,,Haveri
+2023-05-31,,,Haveri
+2023-06-30,,,Haveri
+2023-07-31,,,Haveri
+2023-08-31,,,Haveri
+2023-09-30,,,Haveri
+2023-10-31,,,Haveri
+2023-11-30,,,Haveri
+2023-12-31,,,Haveri
+2024-01-31,,,Haveri
+2024-02-29,,,Haveri
+2024-03-31,,,Haveri
+2024-04-30,,,Haveri
+2024-05-31,,,Haveri
+2024-06-30,,,Haveri
+2024-07-31,,,Haveri
+2024-08-31,,,Haveri
+2024-09-30,,,Haveri
+2024-10-31,,,Haveri
+2024-11-30,,,Haveri
+2024-12-31,,,Haveri
+2025-01-31,,,Haveri
+2025-02-28,,,Haveri
+2025-03-31,,,Haveri
+2025-04-30,,,Haveri
+2025-05-31,,,Haveri
+2025-06-30,,,Haveri
+2025-07-31,,,Haveri
+2025-08-31,,,Haveri
+2025-09-30,,,Haveri
+2025-10-31,,,Haveri
+2025-11-30,,,Haveri
+2016-12-31,,,Kalaburagi
+2017-01-31,,,Kalaburagi
+2017-02-28,,,Kalaburagi
+2017-03-31,,,Kalaburagi
+2017-04-30,,,Kalaburagi
+2017-05-31,,,Kalaburagi
+2017-06-30,,,Kalaburagi
+2017-07-31,,,Kalaburagi
+2017-08-31,,,Kalaburagi
+2017-09-30,,,Kalaburagi
+2017-10-31,,,Kalaburagi
+2017-11-30,,,Kalaburagi
+2017-12-31,,,Kalaburagi
+2018-01-31,,,Kalaburagi
+2018-02-28,,,Kalaburagi
+2018-03-31,,,Kalaburagi
+2018-04-30,,,Kalaburagi
+2018-05-31,,,Kalaburagi
+2018-06-30,,,Kalaburagi
+2018-07-31,,,Kalaburagi
+2018-08-31,,,Kalaburagi
+2018-09-30,,,Kalaburagi
+2018-10-31,,,Kalaburagi
+2018-11-30,,,Kalaburagi
+2018-12-31,,,Kalaburagi
+2019-01-31,,,Kalaburagi
+2019-02-28,,,Kalaburagi
+2019-03-31,,,Kalaburagi
+2019-04-30,,,Kalaburagi
+2019-05-31,,,Kalaburagi
+2019-06-30,,,Kalaburagi
+2019-07-31,,,Kalaburagi
+2019-08-31,,,Kalaburagi
+2019-09-30,,,Kalaburagi
+2019-10-31,,,Kalaburagi
+2019-11-30,,,Kalaburagi
+2019-12-31,,,Kalaburagi
+2020-01-31,,,Kalaburagi
+2020-02-29,,,Kalaburagi
+2020-03-31,,,Kalaburagi
+2020-04-30,,,Kalaburagi
+2020-05-31,,,Kalaburagi
+2020-06-30,,,Kalaburagi
+2020-07-31,,,Kalaburagi
+2020-08-31,,,Kalaburagi
+2020-09-30,,,Kalaburagi
+2020-10-31,,,Kalaburagi
+2020-11-30,,,Kalaburagi
+2020-12-31,,,Kalaburagi
+2021-01-31,,,Kalaburagi
+2021-02-28,,,Kalaburagi
+2021-03-31,,,Kalaburagi
+2021-04-30,,,Kalaburagi
+2021-05-31,,,Kalaburagi
+2021-06-30,,,Kalaburagi
+2021-07-31,,,Kalaburagi
+2021-08-31,,,Kalaburagi
+2021-09-30,,,Kalaburagi
+2021-10-31,,,Kalaburagi
+2021-11-30,,,Kalaburagi
+2021-12-31,,,Kalaburagi
+2022-01-31,,,Kalaburagi
+2022-02-28,,,Kalaburagi
+2022-03-31,,,Kalaburagi
+2022-04-30,,,Kalaburagi
+2022-05-31,,,Kalaburagi
+2022-06-30,,,Kalaburagi
+2022-07-31,,,Kalaburagi
+2022-08-31,,,Kalaburagi
+2022-09-30,,,Kalaburagi
+2022-10-31,,,Kalaburagi
+2022-11-30,,,Kalaburagi
+2022-12-31,,,Kalaburagi
+2023-01-31,,,Kalaburagi
+2023-02-28,,,Kalaburagi
+2023-03-31,,,Kalaburagi
+2023-04-30,,,Kalaburagi
+2023-05-31,,,Kalaburagi
+2023-06-30,,,Kalaburagi
+2023-07-31,,,Kalaburagi
+2023-08-31,,,Kalaburagi
+2023-09-30,,,Kalaburagi
+2023-10-31,,,Kalaburagi
+2023-11-30,,,Kalaburagi
+2023-12-31,,,Kalaburagi
+2024-01-31,,,Kalaburagi
+2024-02-29,,,Kalaburagi
+2024-03-31,,,Kalaburagi
+2024-04-30,,,Kalaburagi
+2024-05-31,,,Kalaburagi
+2024-06-30,,,Kalaburagi
+2024-07-31,,,Kalaburagi
+2024-08-31,,,Kalaburagi
+2024-09-30,,,Kalaburagi
+2024-10-31,,,Kalaburagi
+2024-11-30,,,Kalaburagi
+2024-12-31,,,Kalaburagi
+2025-01-31,,,Kalaburagi
+2025-02-28,,,Kalaburagi
+2025-03-31,,,Kalaburagi
+2025-04-30,,,Kalaburagi
+2025-05-31,,,Kalaburagi
+2025-06-30,,,Kalaburagi
+2025-07-31,,,Kalaburagi
+2025-08-31,,,Kalaburagi
+2025-09-30,,,Kalaburagi
+2025-10-31,,,Kalaburagi
+2025-11-30,,,Kalaburagi
+2016-12-31,,,Kodagu
+2017-01-31,,,Kodagu
+2017-02-28,,,Kodagu
+2017-03-31,,,Kodagu
+2017-04-30,,,Kodagu
+2017-05-31,,,Kodagu
+2017-06-30,,,Kodagu
+2017-07-31,,,Kodagu
+2017-08-31,,,Kodagu
+2017-09-30,,,Kodagu
+2017-10-31,,,Kodagu
+2017-11-30,,,Kodagu
+2017-12-31,,,Kodagu
+2018-01-31,,,Kodagu
+2018-02-28,,,Kodagu
+2018-03-31,,,Kodagu
+2018-04-30,,,Kodagu
+2018-05-31,,,Kodagu
+2018-06-30,,,Kodagu
+2018-07-31,,,Kodagu
+2018-08-31,,,Kodagu
+2018-09-30,,,Kodagu
+2018-10-31,,,Kodagu
+2018-11-30,,,Kodagu
+2018-12-31,,,Kodagu
+2019-01-31,,,Kodagu
+2019-02-28,,,Kodagu
+2019-03-31,,,Kodagu
+2019-04-30,,,Kodagu
+2019-05-31,,,Kodagu
+2019-06-30,,,Kodagu
+2019-07-31,,,Kodagu
+2019-08-31,,,Kodagu
+2019-09-30,,,Kodagu
+2019-10-31,,,Kodagu
+2019-11-30,,,Kodagu
+2019-12-31,,,Kodagu
+2020-01-31,,,Kodagu
+2020-02-29,,,Kodagu
+2020-03-31,,,Kodagu
+2020-04-30,,,Kodagu
+2020-05-31,,,Kodagu
+2020-06-30,,,Kodagu
+2020-07-31,,,Kodagu
+2020-08-31,,,Kodagu
+2020-09-30,,,Kodagu
+2020-10-31,,,Kodagu
+2020-11-30,,,Kodagu
+2020-12-31,,,Kodagu
+2021-01-31,,,Kodagu
+2021-02-28,,,Kodagu
+2021-03-31,,,Kodagu
+2021-04-30,,,Kodagu
+2021-05-31,,,Kodagu
+2021-06-30,,,Kodagu
+2021-07-31,,,Kodagu
+2021-08-31,,,Kodagu
+2021-09-30,,,Kodagu
+2021-10-31,,,Kodagu
+2021-11-30,,,Kodagu
+2021-12-31,,,Kodagu
+2022-01-31,,,Kodagu
+2022-02-28,,,Kodagu
+2022-03-31,,,Kodagu
+2022-04-30,,,Kodagu
+2022-05-31,,,Kodagu
+2022-06-30,,,Kodagu
+2022-07-31,,,Kodagu
+2022-08-31,,,Kodagu
+2022-09-30,,,Kodagu
+2022-10-31,,,Kodagu
+2022-11-30,,,Kodagu
+2022-12-31,,,Kodagu
+2023-01-31,,,Kodagu
+2023-02-28,,,Kodagu
+2023-03-31,,,Kodagu
+2023-04-30,,,Kodagu
+2023-05-31,,,Kodagu
+2023-06-30,,,Kodagu
+2023-07-31,,,Kodagu
+2023-08-31,,,Kodagu
+2023-09-30,,,Kodagu
+2023-10-31,,,Kodagu
+2023-11-30,,,Kodagu
+2023-12-31,,,Kodagu
+2024-01-31,,,Kodagu
+2024-02-29,,,Kodagu
+2024-03-31,,,Kodagu
+2024-04-30,,,Kodagu
+2024-05-31,,,Kodagu
+2024-06-30,,,Kodagu
+2024-07-31,,,Kodagu
+2024-08-31,,,Kodagu
+2024-09-30,,,Kodagu
+2024-10-31,,,Kodagu
+2024-11-30,,,Kodagu
+2024-12-31,,,Kodagu
+2025-01-31,,,Kodagu
+2025-02-28,,,Kodagu
+2025-03-31,,,Kodagu
+2025-04-30,,,Kodagu
+2025-05-31,,,Kodagu
+2025-06-30,,,Kodagu
+2025-07-31,,,Kodagu
+2025-08-31,,,Kodagu
+2025-09-30,,,Kodagu
+2025-10-31,,,Kodagu
+2025-11-30,,,Kodagu
+2016-12-31,,,Kolar
+2017-01-31,,,Kolar
+2017-02-28,,,Kolar
+2017-03-31,,,Kolar
+2017-04-30,,,Kolar
+2017-05-31,,,Kolar
+2017-06-30,,,Kolar
+2017-07-31,,,Kolar
+2017-08-31,,,Kolar
+2017-09-30,,,Kolar
+2017-10-31,,,Kolar
+2017-11-30,,,Kolar
+2017-12-31,,,Kolar
+2018-01-31,,,Kolar
+2018-02-28,,,Kolar
+2018-03-31,,,Kolar
+2018-04-30,,,Kolar
+2018-05-31,,,Kolar
+2018-06-30,,,Kolar
+2018-07-31,,,Kolar
+2018-08-31,,,Kolar
+2018-09-30,,,Kolar
+2018-10-31,,,Kolar
+2018-11-30,,,Kolar
+2018-12-31,,,Kolar
+2019-01-31,,,Kolar
+2019-02-28,,,Kolar
+2019-03-31,,,Kolar
+2019-04-30,,,Kolar
+2019-05-31,,,Kolar
+2019-06-30,,,Kolar
+2019-07-31,,,Kolar
+2019-08-31,,,Kolar
+2019-09-30,,,Kolar
+2019-10-31,,,Kolar
+2019-11-30,,,Kolar
+2019-12-31,,,Kolar
+2020-01-31,,,Kolar
+2020-02-29,,,Kolar
+2020-03-31,,,Kolar
+2020-04-30,,,Kolar
+2020-05-31,,,Kolar
+2020-06-30,,,Kolar
+2020-07-31,,,Kolar
+2020-08-31,,,Kolar
+2020-09-30,,,Kolar
+2020-10-31,,,Kolar
+2020-11-30,,,Kolar
+2020-12-31,,,Kolar
+2021-01-31,,,Kolar
+2021-02-28,,,Kolar
+2021-03-31,,,Kolar
+2021-04-30,,,Kolar
+2021-05-31,,,Kolar
+2021-06-30,,,Kolar
+2021-07-31,,,Kolar
+2021-08-31,,,Kolar
+2021-09-30,,,Kolar
+2021-10-31,,,Kolar
+2021-11-30,,,Kolar
+2021-12-31,,,Kolar
+2022-01-31,,,Kolar
+2022-02-28,,,Kolar
+2022-03-31,,,Kolar
+2022-04-30,,,Kolar
+2022-05-31,,,Kolar
+2022-06-30,,,Kolar
+2022-07-31,,,Kolar
+2022-08-31,,,Kolar
+2022-09-30,,,Kolar
+2022-10-31,,,Kolar
+2022-11-30,,,Kolar
+2022-12-31,,,Kolar
+2023-01-31,,,Kolar
+2023-02-28,,,Kolar
+2023-03-31,,,Kolar
+2023-04-30,,,Kolar
+2023-05-31,,,Kolar
+2023-06-30,,,Kolar
+2023-07-31,,,Kolar
+2023-08-31,,,Kolar
+2023-09-30,,,Kolar
+2023-10-31,,,Kolar
+2023-11-30,,,Kolar
+2023-12-31,,,Kolar
+2024-01-31,,,Kolar
+2024-02-29,,,Kolar
+2024-03-31,,,Kolar
+2024-04-30,,,Kolar
+2024-05-31,,,Kolar
+2024-06-30,,,Kolar
+2024-07-31,,,Kolar
+2024-08-31,,,Kolar
+2024-09-30,,,Kolar
+2024-10-31,,,Kolar
+2024-11-30,,,Kolar
+2024-12-31,,,Kolar
+2025-01-31,,,Kolar
+2025-02-28,,,Kolar
+2025-03-31,,,Kolar
+2025-04-30,,,Kolar
+2025-05-31,,,Kolar
+2025-06-30,,,Kolar
+2025-07-31,,,Kolar
+2025-08-31,,,Kolar
+2025-09-30,,,Kolar
+2025-10-31,,,Kolar
+2025-11-30,,,Kolar
+2016-12-31,,,Koppal
+2017-01-31,,,Koppal
+2017-02-28,,,Koppal
+2017-03-31,,,Koppal
+2017-04-30,,,Koppal
+2017-05-31,,,Koppal
+2017-06-30,,,Koppal
+2017-07-31,,,Koppal
+2017-08-31,,,Koppal
+2017-09-30,,,Koppal
+2017-10-31,,,Koppal
+2017-11-30,,,Koppal
+2017-12-31,,,Koppal
+2018-01-31,,,Koppal
+2018-02-28,,,Koppal
+2018-03-31,,,Koppal
+2018-04-30,,,Koppal
+2018-05-31,,,Koppal
+2018-06-30,,,Koppal
+2018-07-31,,,Koppal
+2018-08-31,,,Koppal
+2018-09-30,,,Koppal
+2018-10-31,,,Koppal
+2018-11-30,,,Koppal
+2018-12-31,,,Koppal
+2019-01-31,,,Koppal
+2019-02-28,,,Koppal
+2019-03-31,,,Koppal
+2019-04-30,,,Koppal
+2019-05-31,,,Koppal
+2019-06-30,,,Koppal
+2019-07-31,,,Koppal
+2019-08-31,,,Koppal
+2019-09-30,,,Koppal
+2019-10-31,,,Koppal
+2019-11-30,,,Koppal
+2019-12-31,,,Koppal
+2020-01-31,,,Koppal
+2020-02-29,,,Koppal
+2020-03-31,,,Koppal
+2020-04-30,,,Koppal
+2020-05-31,,,Koppal
+2020-06-30,,,Koppal
+2020-07-31,,,Koppal
+2020-08-31,,,Koppal
+2020-09-30,,,Koppal
+2020-10-31,,,Koppal
+2020-11-30,,,Koppal
+2020-12-31,,,Koppal
+2021-01-31,,,Koppal
+2021-02-28,,,Koppal
+2021-03-31,,,Koppal
+2021-04-30,,,Koppal
+2021-05-31,,,Koppal
+2021-06-30,,,Koppal
+2021-07-31,,,Koppal
+2021-08-31,,,Koppal
+2021-09-30,,,Koppal
+2021-10-31,,,Koppal
+2021-11-30,,,Koppal
+2021-12-31,,,Koppal
+2022-01-31,,,Koppal
+2022-02-28,,,Koppal
+2022-03-31,,,Koppal
+2022-04-30,,,Koppal
+2022-05-31,,,Koppal
+2022-06-30,,,Koppal
+2022-07-31,,,Koppal
+2022-08-31,,,Koppal
+2022-09-30,,,Koppal
+2022-10-31,,,Koppal
+2022-11-30,,,Koppal
+2022-12-31,,,Koppal
+2023-01-31,,,Koppal
+2023-02-28,,,Koppal
+2023-03-31,,,Koppal
+2023-04-30,,,Koppal
+2023-05-31,,,Koppal
+2023-06-30,,,Koppal
+2023-07-31,,,Koppal
+2023-08-31,,,Koppal
+2023-09-30,,,Koppal
+2023-10-31,,,Koppal
+2023-11-30,,,Koppal
+2023-12-31,,,Koppal
+2024-01-31,,,Koppal
+2024-02-29,,,Koppal
+2024-03-31,,,Koppal
+2024-04-30,,,Koppal
+2024-05-31,,,Koppal
+2024-06-30,,,Koppal
+2024-07-31,,,Koppal
+2024-08-31,,,Koppal
+2024-09-30,,,Koppal
+2024-10-31,,,Koppal
+2024-11-30,,,Koppal
+2024-12-31,,,Koppal
+2025-01-31,,,Koppal
+2025-02-28,,,Koppal
+2025-03-31,,,Koppal
+2025-04-30,,,Koppal
+2025-05-31,,,Koppal
+2025-06-30,,,Koppal
+2025-07-31,,,Koppal
+2025-08-31,,,Koppal
+2025-09-30,,,Koppal
+2025-10-31,,,Koppal
+2025-11-30,,,Koppal
+2016-12-31,,,Mandya
+2017-01-31,,,Mandya
+2017-02-28,,,Mandya
+2017-03-31,,,Mandya
+2017-04-30,,,Mandya
+2017-05-31,,,Mandya
+2017-06-30,,,Mandya
+2017-07-31,,,Mandya
+2017-08-31,,,Mandya
+2017-09-30,,,Mandya
+2017-10-31,,,Mandya
+2017-11-30,,,Mandya
+2017-12-31,,,Mandya
+2018-01-31,,,Mandya
+2018-02-28,,,Mandya
+2018-03-31,,,Mandya
+2018-04-30,,,Mandya
+2018-05-31,,,Mandya
+2018-06-30,,,Mandya
+2018-07-31,,,Mandya
+2018-08-31,,,Mandya
+2018-09-30,,,Mandya
+2018-10-31,,,Mandya
+2018-11-30,,,Mandya
+2018-12-31,,,Mandya
+2019-01-31,,,Mandya
+2019-02-28,,,Mandya
+2019-03-31,,,Mandya
+2019-04-30,,,Mandya
+2019-05-31,,,Mandya
+2019-06-30,,,Mandya
+2019-07-31,,,Mandya
+2019-08-31,,,Mandya
+2019-09-30,,,Mandya
+2019-10-31,,,Mandya
+2019-11-30,,,Mandya
+2019-12-31,,,Mandya
+2020-01-31,,,Mandya
+2020-02-29,,,Mandya
+2020-03-31,,,Mandya
+2020-04-30,,,Mandya
+2020-05-31,,,Mandya
+2020-06-30,,,Mandya
+2020-07-31,,,Mandya
+2020-08-31,,,Mandya
+2020-09-30,,,Mandya
+2020-10-31,,,Mandya
+2020-11-30,,,Mandya
+2020-12-31,,,Mandya
+2021-01-31,,,Mandya
+2021-02-28,,,Mandya
+2021-03-31,,,Mandya
+2021-04-30,,,Mandya
+2021-05-31,,,Mandya
+2021-06-30,,,Mandya
+2021-07-31,,,Mandya
+2021-08-31,,,Mandya
+2021-09-30,,,Mandya
+2021-10-31,,,Mandya
+2021-11-30,,,Mandya
+2021-12-31,,,Mandya
+2022-01-31,,,Mandya
+2022-02-28,,,Mandya
+2022-03-31,,,Mandya
+2022-04-30,,,Mandya
+2022-05-31,,,Mandya
+2022-06-30,,,Mandya
+2022-07-31,,,Mandya
+2022-08-31,,,Mandya
+2022-09-30,,,Mandya
+2022-10-31,,,Mandya
+2022-11-30,,,Mandya
+2022-12-31,,,Mandya
+2023-01-31,,,Mandya
+2023-02-28,,,Mandya
+2023-03-31,,,Mandya
+2023-04-30,,,Mandya
+2023-05-31,,,Mandya
+2023-06-30,,,Mandya
+2023-07-31,,,Mandya
+2023-08-31,,,Mandya
+2023-09-30,,,Mandya
+2023-10-31,,,Mandya
+2023-11-30,,,Mandya
+2023-12-31,,,Mandya
+2024-01-31,,,Mandya
+2024-02-29,,,Mandya
+2024-03-31,,,Mandya
+2024-04-30,,,Mandya
+2024-05-31,,,Mandya
+2024-06-30,,,Mandya
+2024-07-31,,,Mandya
+2024-08-31,,,Mandya
+2024-09-30,,,Mandya
+2024-10-31,,,Mandya
+2024-11-30,,,Mandya
+2024-12-31,,,Mandya
+2025-01-31,,,Mandya
+2025-02-28,,,Mandya
+2025-03-31,,,Mandya
+2025-04-30,,,Mandya
+2025-05-31,,,Mandya
+2025-06-30,,,Mandya
+2025-07-31,,,Mandya
+2025-08-31,,,Mandya
+2025-09-30,,,Mandya
+2025-10-31,,,Mandya
+2025-11-30,,,Mandya
+2016-12-31,,,Mysuru
+2017-01-31,,,Mysuru
+2017-02-28,,,Mysuru
+2017-03-31,,,Mysuru
+2017-04-30,,,Mysuru
+2017-05-31,,,Mysuru
+2017-06-30,,,Mysuru
+2017-07-31,,,Mysuru
+2017-08-31,,,Mysuru
+2017-09-30,,,Mysuru
+2017-10-31,,,Mysuru
+2017-11-30,,,Mysuru
+2017-12-31,,,Mysuru
+2018-01-31,,,Mysuru
+2018-02-28,,,Mysuru
+2018-03-31,,,Mysuru
+2018-04-30,,,Mysuru
+2018-05-31,,,Mysuru
+2018-06-30,,,Mysuru
+2018-07-31,,,Mysuru
+2018-08-31,,,Mysuru
+2018-09-30,,,Mysuru
+2018-10-31,,,Mysuru
+2018-11-30,,,Mysuru
+2018-12-31,,,Mysuru
+2019-01-31,,,Mysuru
+2019-02-28,,,Mysuru
+2019-03-31,,,Mysuru
+2019-04-30,,,Mysuru
+2019-05-31,,,Mysuru
+2019-06-30,,,Mysuru
+2019-07-31,,,Mysuru
+2019-08-31,,,Mysuru
+2019-09-30,,,Mysuru
+2019-10-31,,,Mysuru
+2019-11-30,,,Mysuru
+2019-12-31,,,Mysuru
+2020-01-31,,,Mysuru
+2020-02-29,,,Mysuru
+2020-03-31,,,Mysuru
+2020-04-30,,,Mysuru
+2020-05-31,,,Mysuru
+2020-06-30,,,Mysuru
+2020-07-31,,,Mysuru
+2020-08-31,,,Mysuru
+2020-09-30,,,Mysuru
+2020-10-31,,,Mysuru
+2020-11-30,,,Mysuru
+2020-12-31,,,Mysuru
+2021-01-31,,,Mysuru
+2021-02-28,,,Mysuru
+2021-03-31,,,Mysuru
+2021-04-30,,,Mysuru
+2021-05-31,,,Mysuru
+2021-06-30,,,Mysuru
+2021-07-31,,,Mysuru
+2021-08-31,,,Mysuru
+2021-09-30,,,Mysuru
+2021-10-31,,,Mysuru
+2021-11-30,,,Mysuru
+2021-12-31,,,Mysuru
+2022-01-31,,,Mysuru
+2022-02-28,,,Mysuru
+2022-03-31,,,Mysuru
+2022-04-30,,,Mysuru
+2022-05-31,,,Mysuru
+2022-06-30,,,Mysuru
+2022-07-31,,,Mysuru
+2022-08-31,,,Mysuru
+2022-09-30,,,Mysuru
+2022-10-31,,,Mysuru
+2022-11-30,,,Mysuru
+2022-12-31,,,Mysuru
+2023-01-31,,,Mysuru
+2023-02-28,,,Mysuru
+2023-03-31,,,Mysuru
+2023-04-30,,,Mysuru
+2023-05-31,,,Mysuru
+2023-06-30,,,Mysuru
+2023-07-31,,,Mysuru
+2023-08-31,,,Mysuru
+2023-09-30,,,Mysuru
+2023-10-31,,,Mysuru
+2023-11-30,,,Mysuru
+2023-12-31,,,Mysuru
+2024-01-31,,,Mysuru
+2024-02-29,,,Mysuru
+2024-03-31,,,Mysuru
+2024-04-30,,,Mysuru
+2024-05-31,,,Mysuru
+2024-06-30,,,Mysuru
+2024-07-31,,,Mysuru
+2024-08-31,,,Mysuru
+2024-09-30,,,Mysuru
+2024-10-31,,,Mysuru
+2024-11-30,,,Mysuru
+2024-12-31,,,Mysuru
+2025-01-31,,,Mysuru
+2025-02-28,,,Mysuru
+2025-03-31,,,Mysuru
+2025-04-30,,,Mysuru
+2025-05-31,,,Mysuru
+2025-06-30,,,Mysuru
+2025-07-31,,,Mysuru
+2025-08-31,,,Mysuru
+2025-09-30,,,Mysuru
+2025-10-31,,,Mysuru
+2025-11-30,,,Mysuru
+2016-12-31,,,Raichur
+2017-01-31,,,Raichur
+2017-02-28,,,Raichur
+2017-03-31,,,Raichur
+2017-04-30,,,Raichur
+2017-05-31,,,Raichur
+2017-06-30,,,Raichur
+2017-07-31,,,Raichur
+2017-08-31,,,Raichur
+2017-09-30,,,Raichur
+2017-10-31,,,Raichur
+2017-11-30,,,Raichur
+2017-12-31,,,Raichur
+2018-01-31,,,Raichur
+2018-02-28,,,Raichur
+2018-03-31,,,Raichur
+2018-04-30,,,Raichur
+2018-05-31,,,Raichur
+2018-06-30,,,Raichur
+2018-07-31,,,Raichur
+2018-08-31,,,Raichur
+2018-09-30,,,Raichur
+2018-10-31,,,Raichur
+2018-11-30,,,Raichur
+2018-12-31,,,Raichur
+2019-01-31,,,Raichur
+2019-02-28,,,Raichur
+2019-03-31,,,Raichur
+2019-04-30,,,Raichur
+2019-05-31,,,Raichur
+2019-06-30,,,Raichur
+2019-07-31,,,Raichur
+2019-08-31,,,Raichur
+2019-09-30,,,Raichur
+2019-10-31,,,Raichur
+2019-11-30,,,Raichur
+2019-12-31,,,Raichur
+2020-01-31,,,Raichur
+2020-02-29,,,Raichur
+2020-03-31,,,Raichur
+2020-04-30,,,Raichur
+2020-05-31,,,Raichur
+2020-06-30,,,Raichur
+2020-07-31,,,Raichur
+2020-08-31,,,Raichur
+2020-09-30,,,Raichur
+2020-10-31,,,Raichur
+2020-11-30,,,Raichur
+2020-12-31,,,Raichur
+2021-01-31,,,Raichur
+2021-02-28,,,Raichur
+2021-03-31,,,Raichur
+2021-04-30,,,Raichur
+2021-05-31,,,Raichur
+2021-06-30,,,Raichur
+2021-07-31,,,Raichur
+2021-08-31,,,Raichur
+2021-09-30,,,Raichur
+2021-10-31,,,Raichur
+2021-11-30,,,Raichur
+2021-12-31,,,Raichur
+2022-01-31,,,Raichur
+2022-02-28,,,Raichur
+2022-03-31,,,Raichur
+2022-04-30,,,Raichur
+2022-05-31,,,Raichur
+2022-06-30,,,Raichur
+2022-07-31,,,Raichur
+2022-08-31,,,Raichur
+2022-09-30,,,Raichur
+2022-10-31,,,Raichur
+2022-11-30,,,Raichur
+2022-12-31,,,Raichur
+2023-01-31,,,Raichur
+2023-02-28,,,Raichur
+2023-03-31,,,Raichur
+2023-04-30,,,Raichur
+2023-05-31,,,Raichur
+2023-06-30,,,Raichur
+2023-07-31,,,Raichur
+2023-08-31,,,Raichur
+2023-09-30,,,Raichur
+2023-10-31,,,Raichur
+2023-11-30,,,Raichur
+2023-12-31,,,Raichur
+2024-01-31,,,Raichur
+2024-02-29,,,Raichur
+2024-03-31,,,Raichur
+2024-04-30,,,Raichur
+2024-05-31,,,Raichur
+2024-06-30,,,Raichur
+2024-07-31,,,Raichur
+2024-08-31,,,Raichur
+2024-09-30,,,Raichur
+2024-10-31,,,Raichur
+2024-11-30,,,Raichur
+2024-12-31,,,Raichur
+2025-01-31,,,Raichur
+2025-02-28,,,Raichur
+2025-03-31,,,Raichur
+2025-04-30,,,Raichur
+2025-05-31,,,Raichur
+2025-06-30,,,Raichur
+2025-07-31,,,Raichur
+2025-08-31,,,Raichur
+2025-09-30,,,Raichur
+2025-10-31,,,Raichur
+2025-11-30,,,Raichur
+2016-12-31,,,Ramanagara
+2017-01-31,,,Ramanagara
+2017-02-28,,,Ramanagara
+2017-03-31,,,Ramanagara
+2017-04-30,,,Ramanagara
+2017-05-31,,,Ramanagara
+2017-06-30,,,Ramanagara
+2017-07-31,,,Ramanagara
+2017-08-31,,,Ramanagara
+2017-09-30,,,Ramanagara
+2017-10-31,,,Ramanagara
+2017-11-30,,,Ramanagara
+2017-12-31,,,Ramanagara
+2018-01-31,,,Ramanagara
+2018-02-28,,,Ramanagara
+2018-03-31,,,Ramanagara
+2018-04-30,,,Ramanagara
+2018-05-31,,,Ramanagara
+2018-06-30,,,Ramanagara
+2018-07-31,,,Ramanagara
+2018-08-31,,,Ramanagara
+2018-09-30,,,Ramanagara
+2018-10-31,,,Ramanagara
+2018-11-30,,,Ramanagara
+2018-12-31,,,Ramanagara
+2019-01-31,,,Ramanagara
+2019-02-28,,,Ramanagara
+2019-03-31,,,Ramanagara
+2019-04-30,,,Ramanagara
+2019-05-31,,,Ramanagara
+2019-06-30,,,Ramanagara
+2019-07-31,,,Ramanagara
+2019-08-31,,,Ramanagara
+2019-09-30,,,Ramanagara
+2019-10-31,,,Ramanagara
+2019-11-30,,,Ramanagara
+2019-12-31,,,Ramanagara
+2020-01-31,,,Ramanagara
+2020-02-29,,,Ramanagara
+2020-03-31,,,Ramanagara
+2020-04-30,,,Ramanagara
+2020-05-31,,,Ramanagara
+2020-06-30,,,Ramanagara
+2020-07-31,,,Ramanagara
+2020-08-31,,,Ramanagara
+2020-09-30,,,Ramanagara
+2020-10-31,,,Ramanagara
+2020-11-30,,,Ramanagara
+2020-12-31,,,Ramanagara
+2021-01-31,,,Ramanagara
+2021-02-28,,,Ramanagara
+2021-03-31,,,Ramanagara
+2021-04-30,,,Ramanagara
+2021-05-31,,,Ramanagara
+2021-06-30,,,Ramanagara
+2021-07-31,,,Ramanagara
+2021-08-31,,,Ramanagara
+2021-09-30,,,Ramanagara
+2021-10-31,,,Ramanagara
+2021-11-30,,,Ramanagara
+2021-12-31,,,Ramanagara
+2022-01-31,,,Ramanagara
+2022-02-28,,,Ramanagara
+2022-03-31,,,Ramanagara
+2022-04-30,,,Ramanagara
+2022-05-31,,,Ramanagara
+2022-06-30,,,Ramanagara
+2022-07-31,,,Ramanagara
+2022-08-31,,,Ramanagara
+2022-09-30,,,Ramanagara
+2022-10-31,,,Ramanagara
+2022-11-30,,,Ramanagara
+2022-12-31,,,Ramanagara
+2023-01-31,,,Ramanagara
+2023-02-28,,,Ramanagara
+2023-03-31,,,Ramanagara
+2023-04-30,,,Ramanagara
+2023-05-31,,,Ramanagara
+2023-06-30,,,Ramanagara
+2023-07-31,,,Ramanagara
+2023-08-31,,,Ramanagara
+2023-09-30,,,Ramanagara
+2023-10-31,,,Ramanagara
+2023-11-30,,,Ramanagara
+2023-12-31,,,Ramanagara
+2024-01-31,,,Ramanagara
+2024-02-29,,,Ramanagara
+2024-03-31,,,Ramanagara
+2024-04-30,,,Ramanagara
+2024-05-31,,,Ramanagara
+2024-06-30,,,Ramanagara
+2024-07-31,,,Ramanagara
+2024-08-31,,,Ramanagara
+2024-09-30,,,Ramanagara
+2024-10-31,,,Ramanagara
+2024-11-30,,,Ramanagara
+2024-12-31,,,Ramanagara
+2025-01-31,,,Ramanagara
+2025-02-28,,,Ramanagara
+2025-03-31,,,Ramanagara
+2025-04-30,,,Ramanagara
+2025-05-31,,,Ramanagara
+2025-06-30,,,Ramanagara
+2025-07-31,,,Ramanagara
+2025-08-31,,,Ramanagara
+2025-09-30,,,Ramanagara
+2025-10-31,,,Ramanagara
+2025-11-30,,,Ramanagara
+2016-12-31,,,Shimoga
+2017-01-31,,,Shimoga
+2017-02-28,,,Shimoga
+2017-03-31,,,Shimoga
+2017-04-30,,,Shimoga
+2017-05-31,,,Shimoga
+2017-06-30,,,Shimoga
+2017-07-31,,,Shimoga
+2017-08-31,,,Shimoga
+2017-09-30,,,Shimoga
+2017-10-31,,,Shimoga
+2017-11-30,,,Shimoga
+2017-12-31,,,Shimoga
+2018-01-31,,,Shimoga
+2018-02-28,,,Shimoga
+2018-03-31,,,Shimoga
+2018-04-30,,,Shimoga
+2018-05-31,,,Shimoga
+2018-06-30,,,Shimoga
+2018-07-31,,,Shimoga
+2018-08-31,,,Shimoga
+2018-09-30,,,Shimoga
+2018-10-31,,,Shimoga
+2018-11-30,,,Shimoga
+2018-12-31,,,Shimoga
+2019-01-31,,,Shimoga
+2019-02-28,,,Shimoga
+2019-03-31,,,Shimoga
+2019-04-30,,,Shimoga
+2019-05-31,,,Shimoga
+2019-06-30,,,Shimoga
+2019-07-31,,,Shimoga
+2019-08-31,,,Shimoga
+2019-09-30,,,Shimoga
+2019-10-31,,,Shimoga
+2019-11-30,,,Shimoga
+2019-12-31,,,Shimoga
+2020-01-31,,,Shimoga
+2020-02-29,,,Shimoga
+2020-03-31,,,Shimoga
+2020-04-30,,,Shimoga
+2020-05-31,,,Shimoga
+2020-06-30,,,Shimoga
+2020-07-31,,,Shimoga
+2020-08-31,,,Shimoga
+2020-09-30,,,Shimoga
+2020-10-31,,,Shimoga
+2020-11-30,,,Shimoga
+2020-12-31,,,Shimoga
+2021-01-31,,,Shimoga
+2021-02-28,,,Shimoga
+2021-03-31,,,Shimoga
+2021-04-30,,,Shimoga
+2021-05-31,,,Shimoga
+2021-06-30,,,Shimoga
+2021-07-31,,,Shimoga
+2021-08-31,,,Shimoga
+2021-09-30,,,Shimoga
+2021-10-31,,,Shimoga
+2021-11-30,,,Shimoga
+2021-12-31,,,Shimoga
+2022-01-31,,,Shimoga
+2022-02-28,,,Shimoga
+2022-03-31,,,Shimoga
+2022-04-30,,,Shimoga
+2022-05-31,,,Shimoga
+2022-06-30,,,Shimoga
+2022-07-31,,,Shimoga
+2022-08-31,,,Shimoga
+2022-09-30,,,Shimoga
+2022-10-31,,,Shimoga
+2022-11-30,,,Shimoga
+2022-12-31,,,Shimoga
+2023-01-31,,,Shimoga
+2023-02-28,,,Shimoga
+2023-03-31,,,Shimoga
+2023-04-30,,,Shimoga
+2023-05-31,,,Shimoga
+2023-06-30,,,Shimoga
+2023-07-31,,,Shimoga
+2023-08-31,,,Shimoga
+2023-09-30,,,Shimoga
+2023-10-31,,,Shimoga
+2023-11-30,,,Shimoga
+2023-12-31,,,Shimoga
+2024-01-31,,,Shimoga
+2024-02-29,,,Shimoga
+2024-03-31,,,Shimoga
+2024-04-30,,,Shimoga
+2024-05-31,,,Shimoga
+2024-06-30,,,Shimoga
+2024-07-31,,,Shimoga
+2024-08-31,,,Shimoga
+2024-09-30,,,Shimoga
+2024-10-31,,,Shimoga
+2024-11-30,,,Shimoga
+2024-12-31,,,Shimoga
+2025-01-31,,,Shimoga
+2025-02-28,,,Shimoga
+2025-03-31,,,Shimoga
+2025-04-30,,,Shimoga
+2025-05-31,,,Shimoga
+2025-06-30,,,Shimoga
+2025-07-31,,,Shimoga
+2025-08-31,,,Shimoga
+2025-09-30,,,Shimoga
+2025-10-31,,,Shimoga
+2025-11-30,,,Shimoga
+2016-12-31,,,Tumakuru
+2017-01-31,,,Tumakuru
+2017-02-28,,,Tumakuru
+2017-03-31,,,Tumakuru
+2017-04-30,,,Tumakuru
+2017-05-31,,,Tumakuru
+2017-06-30,,,Tumakuru
+2017-07-31,,,Tumakuru
+2017-08-31,,,Tumakuru
+2017-09-30,,,Tumakuru
+2017-10-31,,,Tumakuru
+2017-11-30,,,Tumakuru
+2017-12-31,,,Tumakuru
+2018-01-31,,,Tumakuru
+2018-02-28,,,Tumakuru
+2018-03-31,,,Tumakuru
+2018-04-30,,,Tumakuru
+2018-05-31,,,Tumakuru
+2018-06-30,,,Tumakuru
+2018-07-31,,,Tumakuru
+2018-08-31,,,Tumakuru
+2018-09-30,,,Tumakuru
+2018-10-31,,,Tumakuru
+2018-11-30,,,Tumakuru
+2018-12-31,,,Tumakuru
+2019-01-31,,,Tumakuru
+2019-02-28,,,Tumakuru
+2019-03-31,,,Tumakuru
+2019-04-30,,,Tumakuru
+2019-05-31,,,Tumakuru
+2019-06-30,,,Tumakuru
+2019-07-31,,,Tumakuru
+2019-08-31,,,Tumakuru
+2019-09-30,,,Tumakuru
+2019-10-31,,,Tumakuru
+2019-11-30,,,Tumakuru
+2019-12-31,,,Tumakuru
+2020-01-31,,,Tumakuru
+2020-02-29,,,Tumakuru
+2020-03-31,,,Tumakuru
+2020-04-30,,,Tumakuru
+2020-05-31,,,Tumakuru
+2020-06-30,,,Tumakuru
+2020-07-31,,,Tumakuru
+2020-08-31,,,Tumakuru
+2020-09-30,,,Tumakuru
+2020-10-31,,,Tumakuru
+2020-11-30,,,Tumakuru
+2020-12-31,,,Tumakuru
+2021-01-31,,,Tumakuru
+2021-02-28,,,Tumakuru
+2021-03-31,,,Tumakuru
+2021-04-30,,,Tumakuru
+2021-05-31,,,Tumakuru
+2021-06-30,,,Tumakuru
+2021-07-31,,,Tumakuru
+2021-08-31,,,Tumakuru
+2021-09-30,,,Tumakuru
+2021-10-31,,,Tumakuru
+2021-11-30,,,Tumakuru
+2021-12-31,,,Tumakuru
+2022-01-31,,,Tumakuru
+2022-02-28,,,Tumakuru
+2022-03-31,,,Tumakuru
+2022-04-30,,,Tumakuru
+2022-05-31,,,Tumakuru
+2022-06-30,,,Tumakuru
+2022-07-31,,,Tumakuru
+2022-08-31,,,Tumakuru
+2022-09-30,,,Tumakuru
+2022-10-31,,,Tumakuru
+2022-11-30,,,Tumakuru
+2022-12-31,,,Tumakuru
+2023-01-31,,,Tumakuru
+2023-02-28,,,Tumakuru
+2023-03-31,,,Tumakuru
+2023-04-30,,,Tumakuru
+2023-05-31,,,Tumakuru
+2023-06-30,,,Tumakuru
+2023-07-31,,,Tumakuru
+2023-08-31,,,Tumakuru
+2023-09-30,,,Tumakuru
+2023-10-31,,,Tumakuru
+2023-11-30,,,Tumakuru
+2023-12-31,,,Tumakuru
+2024-01-31,,,Tumakuru
+2024-02-29,,,Tumakuru
+2024-03-31,,,Tumakuru
+2024-04-30,,,Tumakuru
+2024-05-31,,,Tumakuru
+2024-06-30,,,Tumakuru
+2024-07-31,,,Tumakuru
+2024-08-31,,,Tumakuru
+2024-09-30,,,Tumakuru
+2024-10-31,,,Tumakuru
+2024-11-30,,,Tumakuru
+2024-12-31,,,Tumakuru
+2025-01-31,,,Tumakuru
+2025-02-28,,,Tumakuru
+2025-03-31,,,Tumakuru
+2025-04-30,,,Tumakuru
+2025-05-31,,,Tumakuru
+2025-06-30,,,Tumakuru
+2025-07-31,,,Tumakuru
+2025-08-31,,,Tumakuru
+2025-09-30,,,Tumakuru
+2025-10-31,,,Tumakuru
+2025-11-30,,,Tumakuru
+2016-12-31,,,Udupi
+2017-01-31,,,Udupi
+2017-02-28,,,Udupi
+2017-03-31,,,Udupi
+2017-04-30,,,Udupi
+2017-05-31,,,Udupi
+2017-06-30,,,Udupi
+2017-07-31,,,Udupi
+2017-08-31,,,Udupi
+2017-09-30,,,Udupi
+2017-10-31,,,Udupi
+2017-11-30,,,Udupi
+2017-12-31,,,Udupi
+2018-01-31,,,Udupi
+2018-02-28,,,Udupi
+2018-03-31,,,Udupi
+2018-04-30,,,Udupi
+2018-05-31,,,Udupi
+2018-06-30,,,Udupi
+2018-07-31,,,Udupi
+2018-08-31,,,Udupi
+2018-09-30,,,Udupi
+2018-10-31,,,Udupi
+2018-11-30,,,Udupi
+2018-12-31,,,Udupi
+2019-01-31,,,Udupi
+2019-02-28,,,Udupi
+2019-03-31,,,Udupi
+2019-04-30,,,Udupi
+2019-05-31,,,Udupi
+2019-06-30,,,Udupi
+2019-07-31,,,Udupi
+2019-08-31,,,Udupi
+2019-09-30,,,Udupi
+2019-10-31,,,Udupi
+2019-11-30,,,Udupi
+2019-12-31,,,Udupi
+2020-01-31,,,Udupi
+2020-02-29,,,Udupi
+2020-03-31,,,Udupi
+2020-04-30,,,Udupi
+2020-05-31,,,Udupi
+2020-06-30,,,Udupi
+2020-07-31,,,Udupi
+2020-08-31,,,Udupi
+2020-09-30,,,Udupi
+2020-10-31,,,Udupi
+2020-11-30,,,Udupi
+2020-12-31,,,Udupi
+2021-01-31,,,Udupi
+2021-02-28,,,Udupi
+2021-03-31,,,Udupi
+2021-04-30,,,Udupi
+2021-05-31,,,Udupi
+2021-06-30,,,Udupi
+2021-07-31,,,Udupi
+2021-08-31,,,Udupi
+2021-09-30,,,Udupi
+2021-10-31,,,Udupi
+2021-11-30,,,Udupi
+2021-12-31,,,Udupi
+2022-01-31,,,Udupi
+2022-02-28,,,Udupi
+2022-03-31,,,Udupi
+2022-04-30,,,Udupi
+2022-05-31,,,Udupi
+2022-06-30,,,Udupi
+2022-07-31,,,Udupi
+2022-08-31,,,Udupi
+2022-09-30,,,Udupi
+2022-10-31,,,Udupi
+2022-11-30,,,Udupi
+2022-12-31,,,Udupi
+2023-01-31,,,Udupi
+2023-02-28,,,Udupi
+2023-03-31,,,Udupi
+2023-04-30,,,Udupi
+2023-05-31,,,Udupi
+2023-06-30,,,Udupi
+2023-07-31,,,Udupi
+2023-08-31,,,Udupi
+2023-09-30,,,Udupi
+2023-10-31,,,Udupi
+2023-11-30,,,Udupi
+2023-12-31,,,Udupi
+2024-01-31,,,Udupi
+2024-02-29,,,Udupi
+2024-03-31,,,Udupi
+2024-04-30,,,Udupi
+2024-05-31,,,Udupi
+2024-06-30,,,Udupi
+2024-07-31,,,Udupi
+2024-08-31,,,Udupi
+2024-09-30,,,Udupi
+2024-10-31,,,Udupi
+2024-11-30,,,Udupi
+2024-12-31,,,Udupi
+2025-01-31,,,Udupi
+2025-02-28,,,Udupi
+2025-03-31,,,Udupi
+2025-04-30,,,Udupi
+2025-05-31,,,Udupi
+2025-06-30,,,Udupi
+2025-07-31,,,Udupi
+2025-08-31,,,Udupi
+2025-09-30,,,Udupi
+2025-10-31,,,Udupi
+2025-11-30,,,Udupi
+2016-12-31,,,Uttara Kannada
+2017-01-31,,,Uttara Kannada
+2017-02-28,,,Uttara Kannada
+2017-03-31,,,Uttara Kannada
+2017-04-30,,,Uttara Kannada
+2017-05-31,,,Uttara Kannada
+2017-06-30,,,Uttara Kannada
+2017-07-31,,,Uttara Kannada
+2017-08-31,,,Uttara Kannada
+2017-09-30,,,Uttara Kannada
+2017-10-31,,,Uttara Kannada
+2017-11-30,,,Uttara Kannada
+2017-12-31,,,Uttara Kannada
+2018-01-31,,,Uttara Kannada
+2018-02-28,,,Uttara Kannada
+2018-03-31,,,Uttara Kannada
+2018-04-30,,,Uttara Kannada
+2018-05-31,,,Uttara Kannada
+2018-06-30,,,Uttara Kannada
+2018-07-31,,,Uttara Kannada
+2018-08-31,,,Uttara Kannada
+2018-09-30,,,Uttara Kannada
+2018-10-31,,,Uttara Kannada
+2018-11-30,,,Uttara Kannada
+2018-12-31,,,Uttara Kannada
+2019-01-31,,,Uttara Kannada
+2019-02-28,,,Uttara Kannada
+2019-03-31,,,Uttara Kannada
+2019-04-30,,,Uttara Kannada
+2019-05-31,,,Uttara Kannada
+2019-06-30,,,Uttara Kannada
+2019-07-31,,,Uttara Kannada
+2019-08-31,,,Uttara Kannada
+2019-09-30,,,Uttara Kannada
+2019-10-31,,,Uttara Kannada
+2019-11-30,,,Uttara Kannada
+2019-12-31,,,Uttara Kannada
+2020-01-31,,,Uttara Kannada
+2020-02-29,,,Uttara Kannada
+2020-03-31,,,Uttara Kannada
+2020-04-30,,,Uttara Kannada
+2020-05-31,,,Uttara Kannada
+2020-06-30,,,Uttara Kannada
+2020-07-31,,,Uttara Kannada
+2020-08-31,,,Uttara Kannada
+2020-09-30,,,Uttara Kannada
+2020-10-31,,,Uttara Kannada
+2020-11-30,,,Uttara Kannada
+2020-12-31,,,Uttara Kannada
+2021-01-31,,,Uttara Kannada
+2021-02-28,,,Uttara Kannada
+2021-03-31,,,Uttara Kannada
+2021-04-30,,,Uttara Kannada
+2021-05-31,,,Uttara Kannada
+2021-06-30,,,Uttara Kannada
+2021-07-31,,,Uttara Kannada
+2021-08-31,,,Uttara Kannada
+2021-09-30,,,Uttara Kannada
+2021-10-31,,,Uttara Kannada
+2021-11-30,,,Uttara Kannada
+2021-12-31,,,Uttara Kannada
+2022-01-31,,,Uttara Kannada
+2022-02-28,,,Uttara Kannada
+2022-03-31,,,Uttara Kannada
+2022-04-30,,,Uttara Kannada
+2022-05-31,,,Uttara Kannada
+2022-06-30,,,Uttara Kannada
+2022-07-31,,,Uttara Kannada
+2022-08-31,,,Uttara Kannada
+2022-09-30,,,Uttara Kannada
+2022-10-31,,,Uttara Kannada
+2022-11-30,,,Uttara Kannada
+2022-12-31,,,Uttara Kannada
+2023-01-31,,,Uttara Kannada
+2023-02-28,,,Uttara Kannada
+2023-03-31,,,Uttara Kannada
+2023-04-30,,,Uttara Kannada
+2023-05-31,,,Uttara Kannada
+2023-06-30,,,Uttara Kannada
+2023-07-31,,,Uttara Kannada
+2023-08-31,,,Uttara Kannada
+2023-09-30,,,Uttara Kannada
+2023-10-31,,,Uttara Kannada
+2023-11-30,,,Uttara Kannada
+2023-12-31,,,Uttara Kannada
+2024-01-31,,,Uttara Kannada
+2024-02-29,,,Uttara Kannada
+2024-03-31,,,Uttara Kannada
+2024-04-30,,,Uttara Kannada
+2024-05-31,,,Uttara Kannada
+2024-06-30,,,Uttara Kannada
+2024-07-31,,,Uttara Kannada
+2024-08-31,,,Uttara Kannada
+2024-09-30,,,Uttara Kannada
+2024-10-31,,,Uttara Kannada
+2024-11-30,,,Uttara Kannada
+2024-12-31,,,Uttara Kannada
+2025-01-31,,,Uttara Kannada
+2025-02-28,,,Uttara Kannada
+2025-03-31,,,Uttara Kannada
+2025-04-30,,,Uttara Kannada
+2025-05-31,,,Uttara Kannada
+2025-06-30,,,Uttara Kannada
+2025-07-31,,,Uttara Kannada
+2025-08-31,,,Uttara Kannada
+2025-09-30,,,Uttara Kannada
+2025-10-31,,,Uttara Kannada
+2025-11-30,,,Uttara Kannada
+2016-12-31,,,Vijayanagara
+2017-01-31,,,Vijayanagara
+2017-02-28,,,Vijayanagara
+2017-03-31,,,Vijayanagara
+2017-04-30,,,Vijayanagara
+2017-05-31,,,Vijayanagara
+2017-06-30,,,Vijayanagara
+2017-07-31,,,Vijayanagara
+2017-08-31,,,Vijayanagara
+2017-09-30,,,Vijayanagara
+2017-10-31,,,Vijayanagara
+2017-11-30,,,Vijayanagara
+2017-12-31,,,Vijayanagara
+2018-01-31,,,Vijayanagara
+2018-02-28,,,Vijayanagara
+2018-03-31,,,Vijayanagara
+2018-04-30,,,Vijayanagara
+2018-05-31,,,Vijayanagara
+2018-06-30,,,Vijayanagara
+2018-07-31,,,Vijayanagara
+2018-08-31,,,Vijayanagara
+2018-09-30,,,Vijayanagara
+2018-10-31,,,Vijayanagara
+2018-11-30,,,Vijayanagara
+2018-12-31,,,Vijayanagara
+2019-01-31,,,Vijayanagara
+2019-02-28,,,Vijayanagara
+2019-03-31,,,Vijayanagara
+2019-04-30,,,Vijayanagara
+2019-05-31,,,Vijayanagara
+2019-06-30,,,Vijayanagara
+2019-07-31,,,Vijayanagara
+2019-08-31,,,Vijayanagara
+2019-09-30,,,Vijayanagara
+2019-10-31,,,Vijayanagara
+2019-11-30,,,Vijayanagara
+2019-12-31,,,Vijayanagara
+2020-01-31,,,Vijayanagara
+2020-02-29,,,Vijayanagara
+2020-03-31,,,Vijayanagara
+2020-04-30,,,Vijayanagara
+2020-05-31,,,Vijayanagara
+2020-06-30,,,Vijayanagara
+2020-07-31,,,Vijayanagara
+2020-08-31,,,Vijayanagara
+2020-09-30,,,Vijayanagara
+2020-10-31,,,Vijayanagara
+2020-11-30,,,Vijayanagara
+2020-12-31,,,Vijayanagara
+2021-01-31,,,Vijayanagara
+2021-02-28,,,Vijayanagara
+2021-03-31,,,Vijayanagara
+2021-04-30,,,Vijayanagara
+2021-05-31,,,Vijayanagara
+2021-06-30,,,Vijayanagara
+2021-07-31,,,Vijayanagara
+2021-08-31,,,Vijayanagara
+2021-09-30,,,Vijayanagara
+2021-10-31,,,Vijayanagara
+2021-11-30,,,Vijayanagara
+2021-12-31,,,Vijayanagara
+2022-01-31,,,Vijayanagara
+2022-02-28,,,Vijayanagara
+2022-03-31,,,Vijayanagara
+2022-04-30,,,Vijayanagara
+2022-05-31,,,Vijayanagara
+2022-06-30,,,Vijayanagara
+2022-07-31,,,Vijayanagara
+2022-08-31,,,Vijayanagara
+2022-09-30,,,Vijayanagara
+2022-10-31,,,Vijayanagara
+2022-11-30,,,Vijayanagara
+2022-12-31,,,Vijayanagara
+2023-01-31,,,Vijayanagara
+2023-02-28,,,Vijayanagara
+2023-03-31,,,Vijayanagara
+2023-04-30,,,Vijayanagara
+2023-05-31,,,Vijayanagara
+2023-06-30,,,Vijayanagara
+2023-07-31,,,Vijayanagara
+2023-08-31,,,Vijayanagara
+2023-09-30,,,Vijayanagara
+2023-10-31,,,Vijayanagara
+2023-11-30,,,Vijayanagara
+2023-12-31,,,Vijayanagara
+2024-01-31,,,Vijayanagara
+2024-02-29,,,Vijayanagara
+2024-03-31,,,Vijayanagara
+2024-04-30,,,Vijayanagara
+2024-05-31,,,Vijayanagara
+2024-06-30,,,Vijayanagara
+2024-07-31,,,Vijayanagara
+2024-08-31,,,Vijayanagara
+2024-09-30,,,Vijayanagara
+2024-10-31,,,Vijayanagara
+2024-11-30,,,Vijayanagara
+2024-12-31,,,Vijayanagara
+2025-01-31,,,Vijayanagara
+2025-02-28,,,Vijayanagara
+2025-03-31,,,Vijayanagara
+2025-04-30,,,Vijayanagara
+2025-05-31,,,Vijayanagara
+2025-06-30,,,Vijayanagara
+2025-07-31,,,Vijayanagara
+2025-08-31,,,Vijayanagara
+2025-09-30,,,Vijayanagara
+2025-10-31,,,Vijayanagara
+2025-11-30,,,Vijayanagara
+2016-12-31,,,Yadgir
+2017-01-31,,,Yadgir
+2017-02-28,,,Yadgir
+2017-03-31,,,Yadgir
+2017-04-30,,,Yadgir
+2017-05-31,,,Yadgir
+2017-06-30,,,Yadgir
+2017-07-31,,,Yadgir
+2017-08-31,,,Yadgir
+2017-09-30,,,Yadgir
+2017-10-31,,,Yadgir
+2017-11-30,,,Yadgir
+2017-12-31,,,Yadgir
+2018-01-31,,,Yadgir
+2018-02-28,,,Yadgir
+2018-03-31,,,Yadgir
+2018-04-30,,,Yadgir
+2018-05-31,,,Yadgir
+2018-06-30,,,Yadgir
+2018-07-31,,,Yadgir
+2018-08-31,,,Yadgir
+2018-09-30,,,Yadgir
+2018-10-31,,,Yadgir
+2018-11-30,,,Yadgir
+2018-12-31,,,Yadgir
+2019-01-31,,,Yadgir
+2019-02-28,,,Yadgir
+2019-03-31,,,Yadgir
+2019-04-30,,,Yadgir
+2019-05-31,,,Yadgir
+2019-06-30,,,Yadgir
+2019-07-31,,,Yadgir
+2019-08-31,,,Yadgir
+2019-09-30,,,Yadgir
+2019-10-31,,,Yadgir
+2019-11-30,,,Yadgir
+2019-12-31,,,Yadgir
+2020-01-31,,,Yadgir
+2020-02-29,,,Yadgir
+2020-03-31,,,Yadgir
+2020-04-30,,,Yadgir
+2020-05-31,,,Yadgir
+2020-06-30,,,Yadgir
+2020-07-31,,,Yadgir
+2020-08-31,,,Yadgir
+2020-09-30,,,Yadgir
+2020-10-31,,,Yadgir
+2020-11-30,,,Yadgir
+2020-12-31,,,Yadgir
+2021-01-31,,,Yadgir
+2021-02-28,,,Yadgir
+2021-03-31,,,Yadgir
+2021-04-30,,,Yadgir
+2021-05-31,,,Yadgir
+2021-06-30,,,Yadgir
+2021-07-31,,,Yadgir
+2021-08-31,,,Yadgir
+2021-09-30,,,Yadgir
+2021-10-31,,,Yadgir
+2021-11-30,,,Yadgir
+2021-12-31,,,Yadgir
+2022-01-31,,,Yadgir
+2022-02-28,,,Yadgir
+2022-03-31,,,Yadgir
+2022-04-30,,,Yadgir
+2022-05-31,,,Yadgir
+2022-06-30,,,Yadgir
+2022-07-31,,,Yadgir
+2022-08-31,,,Yadgir
+2022-09-30,,,Yadgir
+2022-10-31,,,Yadgir
+2022-11-30,,,Yadgir
+2022-12-31,,,Yadgir
+2023-01-31,,,Yadgir
+2023-02-28,,,Yadgir
+2023-03-31,,,Yadgir
+2023-04-30,,,Yadgir
+2023-05-31,,,Yadgir
+2023-06-30,,,Yadgir
+2023-07-31,,,Yadgir
+2023-08-31,,,Yadgir
+2023-09-30,,,Yadgir
+2023-10-31,,,Yadgir
+2023-11-30,,,Yadgir
+2023-12-31,,,Yadgir
+2024-01-31,,,Yadgir
+2024-02-29,,,Yadgir
+2024-03-31,,,Yadgir
+2024-04-30,,,Yadgir
+2024-05-31,,,Yadgir
+2024-06-30,,,Yadgir
+2024-07-31,,,Yadgir
+2024-08-31,,,Yadgir
+2024-09-30,,,Yadgir
+2024-10-31,,,Yadgir
+2024-11-30,,,Yadgir
+2024-12-31,,,Yadgir
+2025-01-31,,,Yadgir
+2025-02-28,,,Yadgir
+2025-03-31,,,Yadgir
+2025-04-30,,,Yadgir
+2025-05-31,,,Yadgir
+2025-06-30,,,Yadgir
+2025-07-31,,,Yadgir
+2025-08-31,,,Yadgir
+2025-09-30,,,Yadgir
+2025-10-31,,,Yadgir
+2025-11-30,,,Yadgir
+2016-12-31,,,Bengaluru Urban
+2017-01-31,,,Bengaluru Urban
+2017-02-28,,,Bengaluru Urban
+2017-03-31,,,Bengaluru Urban
+2017-04-30,,,Bengaluru Urban
+2017-05-31,,,Bengaluru Urban
+2017-06-30,,,Bengaluru Urban
+2017-07-31,,,Bengaluru Urban
+2017-08-31,,,Bengaluru Urban
+2017-09-30,,,Bengaluru Urban
+2017-10-31,,,Bengaluru Urban
+2017-11-30,,,Bengaluru Urban
+2017-12-31,,,Bengaluru Urban
+2018-01-31,,,Bengaluru Urban
+2018-02-28,,,Bengaluru Urban
+2018-03-31,,,Bengaluru Urban
+2018-04-30,,,Bengaluru Urban
+2018-05-31,,,Bengaluru Urban
+2018-06-30,,,Bengaluru Urban
+2018-07-31,,,Bengaluru Urban
+2018-08-31,,,Bengaluru Urban
+2018-09-30,,,Bengaluru Urban
+2018-10-31,,,Bengaluru Urban
+2018-11-30,,,Bengaluru Urban
+2018-12-31,,,Bengaluru Urban
+2019-01-31,,,Bengaluru Urban
+2019-02-28,,,Bengaluru Urban
+2019-03-31,,,Bengaluru Urban
+2019-04-30,,,Bengaluru Urban
+2019-05-31,,,Bengaluru Urban
+2019-06-30,,,Bengaluru Urban
+2019-07-31,,,Bengaluru Urban
+2019-08-31,,,Bengaluru Urban
+2019-09-30,,,Bengaluru Urban
+2019-10-31,,,Bengaluru Urban
+2019-11-30,,,Bengaluru Urban
+2019-12-31,,,Bengaluru Urban
+2020-01-31,,,Bengaluru Urban
+2020-02-29,,,Bengaluru Urban
+2020-03-31,,,Bengaluru Urban
+2020-04-30,,,Bengaluru Urban
+2020-05-31,,,Bengaluru Urban
+2020-06-30,,,Bengaluru Urban
+2020-07-31,,,Bengaluru Urban
+2020-08-31,,,Bengaluru Urban
+2020-09-30,,,Bengaluru Urban
+2020-10-31,,,Bengaluru Urban
+2020-11-30,,,Bengaluru Urban
+2020-12-31,,,Bengaluru Urban
+2021-01-31,,,Bengaluru Urban
+2021-02-28,,,Bengaluru Urban
+2021-03-31,,,Bengaluru Urban
+2021-04-30,,,Bengaluru Urban
+2021-05-31,,,Bengaluru Urban
+2021-06-30,,,Bengaluru Urban
+2021-07-31,,,Bengaluru Urban
+2021-08-31,,,Bengaluru Urban
+2021-09-30,,,Bengaluru Urban
+2021-10-31,,,Bengaluru Urban
+2021-11-30,,,Bengaluru Urban
+2021-12-31,,,Bengaluru Urban
+2022-01-31,,,Bengaluru Urban
+2022-02-28,,,Bengaluru Urban
+2022-03-31,,,Bengaluru Urban
+2022-04-30,,,Bengaluru Urban
+2022-05-31,,,Bengaluru Urban
+2022-06-30,,,Bengaluru Urban
+2022-07-31,,,Bengaluru Urban
+2022-08-31,,,Bengaluru Urban
+2022-09-30,,,Bengaluru Urban
+2022-10-31,,,Bengaluru Urban
+2022-11-30,,,Bengaluru Urban
+2022-12-31,,,Bengaluru Urban
+2023-01-31,,,Bengaluru Urban
+2023-02-28,,,Bengaluru Urban
+2023-03-31,,,Bengaluru Urban
+2023-04-30,,,Bengaluru Urban
+2023-05-31,,,Bengaluru Urban
+2023-06-30,,,Bengaluru Urban
+2023-07-31,,,Bengaluru Urban
+2023-08-31,,,Bengaluru Urban
+2023-09-30,,,Bengaluru Urban
+2023-10-31,,,Bengaluru Urban
+2023-11-30,,,Bengaluru Urban
+2023-12-31,,,Bengaluru Urban
+2024-01-31,,,Bengaluru Urban
+2024-02-29,,,Bengaluru Urban
+2024-03-31,,,Bengaluru Urban
+2024-04-30,,,Bengaluru Urban
+2024-05-31,,,Bengaluru Urban
+2024-06-30,,,Bengaluru Urban
+2024-07-31,,,Bengaluru Urban
+2024-08-31,,,Bengaluru Urban
+2024-09-30,,,Bengaluru Urban
+2024-10-31,,,Bengaluru Urban
+2024-11-30,,,Bengaluru Urban
+2024-12-31,,,Bengaluru Urban
+2025-01-31,,,Bengaluru Urban
+2025-02-28,,,Bengaluru Urban
+2025-03-31,,,Bengaluru Urban
+2025-04-30,,,Bengaluru Urban
+2025-05-31,,,Bengaluru Urban
+2025-06-30,,,Bengaluru Urban
+2025-07-31,,,Bengaluru Urban
+2025-08-31,,,Bengaluru Urban
+2025-09-30,,,Bengaluru Urban
+2025-10-31,,,Bengaluru Urban
+2025-11-30,,,Bengaluru Urban
+2016-12-31,,,Bengaluru Rural
+2017-01-31,,,Bengaluru Rural
+2017-02-28,,,Bengaluru Rural
+2017-03-31,,,Bengaluru Rural
+2017-04-30,,,Bengaluru Rural
+2017-05-31,,,Bengaluru Rural
+2017-06-30,,,Bengaluru Rural
+2017-07-31,,,Bengaluru Rural
+2017-08-31,,,Bengaluru Rural
+2017-09-30,,,Bengaluru Rural
+2017-10-31,,,Bengaluru Rural
+2017-11-30,,,Bengaluru Rural
+2017-12-31,,,Bengaluru Rural
+2018-01-31,,,Bengaluru Rural
+2018-02-28,,,Bengaluru Rural
+2018-03-31,,,Bengaluru Rural
+2018-04-30,,,Bengaluru Rural
+2018-05-31,,,Bengaluru Rural
+2018-06-30,,,Bengaluru Rural
+2018-07-31,,,Bengaluru Rural
+2018-08-31,,,Bengaluru Rural
+2018-09-30,,,Bengaluru Rural
+2018-10-31,,,Bengaluru Rural
+2018-11-30,,,Bengaluru Rural
+2018-12-31,,,Bengaluru Rural
+2019-01-31,,,Bengaluru Rural
+2019-02-28,,,Bengaluru Rural
+2019-03-31,,,Bengaluru Rural
+2019-04-30,,,Bengaluru Rural
+2019-05-31,,,Bengaluru Rural
+2019-06-30,,,Bengaluru Rural
+2019-07-31,,,Bengaluru Rural
+2019-08-31,,,Bengaluru Rural
+2019-09-30,,,Bengaluru Rural
+2019-10-31,,,Bengaluru Rural
+2019-11-30,,,Bengaluru Rural
+2019-12-31,,,Bengaluru Rural
+2020-01-31,,,Bengaluru Rural
+2020-02-29,,,Bengaluru Rural
+2020-03-31,,,Bengaluru Rural
+2020-04-30,,,Bengaluru Rural
+2020-05-31,,,Bengaluru Rural
+2020-06-30,,,Bengaluru Rural
+2020-07-31,,,Bengaluru Rural
+2020-08-31,,,Bengaluru Rural
+2020-09-30,,,Bengaluru Rural
+2020-10-31,,,Bengaluru Rural
+2020-11-30,,,Bengaluru Rural
+2020-12-31,,,Bengaluru Rural
+2021-01-31,,,Bengaluru Rural
+2021-02-28,,,Bengaluru Rural
+2021-03-31,,,Bengaluru Rural
+2021-04-30,,,Bengaluru Rural
+2021-05-31,,,Bengaluru Rural
+2021-06-30,,,Bengaluru Rural
+2021-07-31,,,Bengaluru Rural
+2021-08-31,,,Bengaluru Rural
+2021-09-30,,,Bengaluru Rural
+2021-10-31,,,Bengaluru Rural
+2021-11-30,,,Bengaluru Rural
+2021-12-31,,,Bengaluru Rural
+2022-01-31,,,Bengaluru Rural
+2022-02-28,,,Bengaluru Rural
+2022-03-31,,,Bengaluru Rural
+2022-04-30,,,Bengaluru Rural
+2022-05-31,,,Bengaluru Rural
+2022-06-30,,,Bengaluru Rural
+2022-07-31,,,Bengaluru Rural
+2022-08-31,,,Bengaluru Rural
+2022-09-30,,,Bengaluru Rural
+2022-10-31,,,Bengaluru Rural
+2022-11-30,,,Bengaluru Rural
+2022-12-31,,,Bengaluru Rural
+2023-01-31,,,Bengaluru Rural
+2023-02-28,,,Bengaluru Rural
+2023-03-31,,,Bengaluru Rural
+2023-04-30,,,Bengaluru Rural
+2023-05-31,,,Bengaluru Rural
+2023-06-30,,,Bengaluru Rural
+2023-07-31,,,Bengaluru Rural
+2023-08-31,,,Bengaluru Rural
+2023-09-30,,,Bengaluru Rural
+2023-10-31,,,Bengaluru Rural
+2023-11-30,,,Bengaluru Rural
+2023-12-31,,,Bengaluru Rural
+2024-01-31,,,Bengaluru Rural
+2024-02-29,,,Bengaluru Rural
+2024-03-31,,,Bengaluru Rural
+2024-04-30,,,Bengaluru Rural
+2024-05-31,,,Bengaluru Rural
+2024-06-30,,,Bengaluru Rural
+2024-07-31,,,Bengaluru Rural
+2024-08-31,,,Bengaluru Rural
+2024-09-30,,,Bengaluru Rural
+2024-10-31,,,Bengaluru Rural
+2024-11-30,,,Bengaluru Rural
+2024-12-31,,,Bengaluru Rural
+2025-01-31,,,Bengaluru Rural
+2025-02-28,,,Bengaluru Rural
+2025-03-31,,,Bengaluru Rural
+2025-04-30,,,Bengaluru Rural
+2025-05-31,,,Bengaluru Rural
+2025-06-30,,,Bengaluru Rural
+2025-07-31,,,Bengaluru Rural
+2025-08-31,,,Bengaluru Rural
+2025-09-30,,,Bengaluru Rural
+2025-10-31,,,Bengaluru Rural
+2025-11-30,,,Bengaluru Rural
