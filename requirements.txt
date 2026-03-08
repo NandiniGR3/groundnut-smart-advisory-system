@@ -1,0 +1,27 @@
+streamlit
+torch
+torchvision
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+plotly
+scikit-learn
+xgboost
+opencv-python
+Pillow
+geemap
+earthengine-api
+sentinelsat
+pydrive
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+reportlab
+fuzzywuzzy
+shap
+captum   # For Grad-CAM / XAI in PyTorch
+torchmetrics
+torchvision>=0.15.0
+tqdm
