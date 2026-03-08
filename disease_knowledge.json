@@ -1,0 +1,76 @@
+{
+  "Healthy Leaf": {
+    "cause": {
+      "en": "Leaf is free from fungal, bacterial, or nutrient-related stress.",
+      "kn": "ಎಲೆ ಶಿಲೀಂಧ್ರ, ಬ್ಯಾಕ್ಟೀರಿಯಾ ಅಥವಾ ಪೋಷಕಾಂಶ ಸಮಸ್ಯೆಯಿಂದ ಮುಕ್ತವಾಗಿದೆ."
+    },
+    "impact": {
+      "en": "Normal growth and expected yield is maintained.",
+      "kn": "ಸಾಮಾನ್ಯ ಬೆಳವಣಿಗೆ ಮತ್ತು ನಿರೀಕ್ಷಿತ ಉತ್ಪಾದನೆ ಉಳಿಯುತ್ತದೆ."
+    },
+    "precaution": {
+      "en": "Maintain regular irrigation and balanced fertilizer usage.",
+      "kn": "ನಿಯಮಿತ ನೀರಾವರಿ ಮತ್ತು ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರ ಬಳಸಿ."
+    }
+  },
+
+  "Leaf Spot": {
+    "cause": {
+      "en": "Fungal infection due to high humidity and poor air circulation.",
+      "kn": "ಹೆಚ್ಚು ತೇವಾಂಶ ಮತ್ತು ಗಾಳಿಚಲನೆ ಕೊರತೆಯಿಂದ ಉಂಟಾಗುವ ಶಿಲೀಂಧ್ರ ಸೋಂಕು."
+    },
+    "impact": {
+      "en": "Reduces photosynthesis and leads to early leaf fall.",
+      "kn": "ಪ್ರಕಾಶಸಂಶ್ಲೇಷಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಎಲೆ ಉದುರುವಂತೆ ಮಾಡುತ್ತದೆ."
+    },
+    "precaution": {
+      "en": "Use fungicide spray and avoid overcrowding of plants.",
+      "kn": "ಶಿಲೀಂಧ್ರನಾಶಕ ಸಿಂಪಡಣೆ ಮಾಡಿ ಮತ್ತು ಗಿಡಗಳ ಗಟ್ಟಿತನ ತಪ್ಪಿಸಿ."
+    }
+  },
+
+  "Rust": {
+    "cause": {
+      "en": "Airborne fungal spores spread rapidly in warm conditions.",
+      "kn": "ಬಿಸಿಲಿನ ವಾತಾವರಣದಲ್ಲಿ ಗಾಳಿಯಲ್ಲಿ ಹರಡುವ ಶಿಲೀಂಧ್ರ ಕಣಗಳು."
+    },
+    "impact": {
+      "en": "Severe yield loss due to leaf damage.",
+      "kn": "ಎಲೆ ಹಾನಿಯಿಂದ ಹೆಚ್ಚಿನ ಉತ್ಪಾದನೆ ನಷ್ಟವಾಗುತ್ತದೆ."
+    },
+    "precaution": {
+      "en": "Apply recommended fungicide and ensure crop rotation.",
+      "kn": "ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ ಮತ್ತು ಬೆಳೆ ಪರಿವರ್ತನೆ ಮಾಡಿ."
+    }
+  },
+
+  "Stem Rot": {
+    "cause": {
+      "en": "Soil-borne fungal pathogen thriving in wet soil.",
+      "kn": "ಒದ್ದೆಯ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯುವ ಮಣ್ಣಿನ ಶಿಲೀಂಧ್ರ ರೋಗಾಣು."
+    },
+    "impact": {
+      "en": "Plant wilting and death at early stages.",
+      "kn": "ಆರಂಭಿಕ ಹಂತದಲ್ಲೇ ಗಿಡ ಒಣಗುತ್ತದೆ ಮತ್ತು ಸಾಯುತ್ತದೆ."
+    },
+    "precaution": {
+      "en": "Improve drainage and avoid excessive irrigation.",
+      "kn": "ನೀರಿನ ಹರಿವು ಸುಧಾರಿಸಿ ಮತ್ತು ಅತಿಯಾದ ನೀರಾವರಿ ತಪ್ಪಿಸಿ."
+    }
+  },
+
+  "Nutrient Deficiency": {
+    "cause": {
+      "en": "Insufficient nitrogen, phosphorus, or potassium in soil.",
+      "kn": "ಮಣ್ಣಿನಲ್ಲಿ ನೈಟ್ರೋಜನ್, ಫಾಸ್ಫರಸ್ ಅಥವಾ ಪೊಟಾಷಿಯಂ ಕೊರತೆ."
+    },
+    "impact": {
+      "en": "Poor plant growth and low pod formation.",
+      "kn": "ಗಿಡದ ಬೆಳವಣಿಗೆ ದುರ್ಬಲವಾಗುತ್ತದೆ ಮತ್ತು ಕಾಯಿ ಉತ್ಪಾದನೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+    },
+    "precaution": {
+      "en": "Conduct soil testing and apply balanced fertilizers.",
+      "kn": "ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಮಾಡಿ ಮತ್ತು ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರ ಬಳಸಿ."
+    }
+  }
+}

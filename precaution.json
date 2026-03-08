@@ -1,0 +1,26 @@
+{
+  "Leaf Spot": {
+    "organic": ["Neem oil spray", "Trichoderma viride"],
+    "chemical": ["Mancozeb", "Carbendazim"]
+  },
+  "Rust": {
+    "organic": ["Cow urine solution", "Pseudomonas fluorescens"],
+    "chemical": ["Chlorothalonil", "Hexaconazole"]
+  },
+  "Blight": {
+    "organic": ["Garlic extract", "Neem cake"],
+    "chemical": ["Copper oxychloride"]
+  },
+  "Healthy": {
+    "organic": ["Maintain proper irrigation", "Crop rotation"],
+    "chemical": ["No chemical required"]
+  },
+
+    "Nutrition Deficiency": {
+        "organic": ["Compost application", "Green manure"],
+        "chemical": ["Urea", "DAP (Diammonium phosphate)"]
+    }
+}
+
+
+
